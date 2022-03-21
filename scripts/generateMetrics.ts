@@ -100,6 +100,7 @@ const main = async () => {
    * Metric stores.
    */
   const namesOfContributors: Set<string> = new Set();
+  const namesOfRecentContributors: Set<string> = new Set();
   const secondsToClosePulls: number[] = [];
   const secondsToCloseIssues: number[] = [];
 
@@ -132,8 +133,11 @@ const main = async () => {
   const getPullMetrics = (pull: GithubPull) => {
     const secondsToClose = getSecondsToClose(pull);
 
-    if (secondsToClose && isPullOrIssueWithinMetricsRange(pull))
-      secondsToClosePulls.push(secondsToClose);
+    if (isPullOrIssueWithinMetricsRange(pull)) {
+      if (secondsToClose) secondsToClosePulls.push(secondsToClose);
+      if (pull.user?.login) namesOfRecentContributors.add(pull.user.login);
+    }
+
     if (pull.user?.login) namesOfContributors.add(pull.user.login);
   };
 
@@ -143,8 +147,11 @@ const main = async () => {
   const getIssueMetrics = (issue: GithubIssue) => {
     const secondsToClose = getSecondsToClose(issue);
 
-    if (secondsToClose && isPullOrIssueWithinMetricsRange(issue))
-      secondsToCloseIssues.push(secondsToClose);
+    if (isPullOrIssueWithinMetricsRange(issue)) {
+      if (secondsToClose) secondsToCloseIssues.push(secondsToClose);
+      if (issue.user?.login) namesOfRecentContributors.add(issue.user.login);
+    }
+
     if (issue.user?.login) namesOfContributors.add(issue.user.login);
   };
 
@@ -212,10 +219,19 @@ const main = async () => {
   const meanSecondsToClosePulls = mean(secondsToClosePulls);
   const meanSecondsToCloseIssues = mean(secondsToCloseIssues);
 
+  // Remove known contributors from the recent ones.
+  namesOfRecentContributors.forEach((name) => {
+    if (namesOfContributors.has(name)) {
+      namesOfRecentContributors.delete(name);
+    }
+  });
+
   const metrics = JSON.stringify(
     {
       namesOfAdopters: adopterList,
       namesOfContributors: Array.from(namesOfContributors),
+      namesOfContributorsNew: Array.from(namesOfRecentContributors),
+      numberOfPullRequestNew: secondsToClosePulls.length,
       p50SecondsToClosePulls,
       p50SecondsToCloseIssues,
       meanSecondsToClosePulls,

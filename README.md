@@ -30,6 +30,17 @@ Generates the metrics for the entire Backstage org.
      */
     namesOfContributors: string[];
     /**
+     * List of new contributors that have either
+     * submitted a pull request or opened
+     * an issue.
+     */
+    namesOfContributorsNew: string[];
+    /**
+     * Number of pull requests in the last
+     * month
+     */
+    numberOfPullRequestNew: number;
+    /**
      * p50 of the time pull requests in the
      * last 30 days have been opened to the
      * time they were closed.
