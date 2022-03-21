@@ -45,6 +45,6 @@ jobs:
       # End of yarn setup
 
       - name: Update metrics
-        run: yarn generate --withAdopterList --withMetrics --writeChanges
+        run: yarn generate --withAdopterList --withMetrics --commitChanges
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

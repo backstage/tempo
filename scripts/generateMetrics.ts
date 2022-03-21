@@ -23,7 +23,7 @@ const ADOPTER_MD_URL =
 const PAST_DAYS_FOR_METRICS = 30;
 
 const argv = minimist(process.argv.slice(2));
-const writeChanges = "writeChanges" in argv;
+const commitChanges = "commitChanges" in argv;
 const withMetrics = "withMetrics" in argv;
 const withAdopterList = "withAdopterList" in argv;
 
@@ -41,7 +41,7 @@ const iteratorRepos = octokit.paginate.iterator(octokit.rest.repos.listForOrg, {
   per_page: 100,
 });
 
-if (!writeChanges) {
+if (!commitChanges) {
   console.log(
     "⚠️  Running in dryrun mode, no metrics will be commited back ⚠️"
   );
@@ -230,7 +230,7 @@ const main = async () => {
   /**
    * Commit the metrics back to the repo.
    */
-  if (writeChanges) {
+  if (commitChanges) {
     const sha = await getCurrentMetricFileSha();
 
     await octokit.rest.repos.createOrUpdateFileContents({
