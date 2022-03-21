@@ -53,6 +53,7 @@ const getAdopterList = async () => {
   const content = await response.text();
   const tokens = new Remarkable().parse(content, {});
 
+  let isInTbody = false;
   let isNextCell = false;
 
   const isBlockToken = (
@@ -61,7 +62,9 @@ const getAdopterList = async () => {
     token.type === "inline" && Array.isArray(token.children);
 
   for (const token of tokens) {
-    if (token.type === "tr_open") {
+    if (token.type === "tbody_open") {
+      isInTbody = true;
+    } else if (isInTbody && token.type === "tr_open") {
       isNextCell = true;
     } else if (isBlockToken(token) && isNextCell) {
       if (token.content) {
