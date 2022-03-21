@@ -47,6 +47,12 @@ if (!commitChanges) {
   );
 }
 
+const isContributorABot = (contributor: string) => {
+  const botAccounts = ["snyk-bot"];
+
+  return contributor.endsWith("[bot]") || botAccounts.includes(contributor);
+};
+
 const getAdopterList = async () => {
   const adopters = new Set<string>();
   const response = await fetch(ADOPTER_MD_URL);
@@ -171,7 +177,7 @@ const main = async () => {
       secondsToClosePulls.push(secondsToClose);
     }
 
-    if (pull.user?.login) {
+    if (pull.user?.login && !isContributorABot(pull.user?.login)) {
       addNewContributorToBucket(key, pull.user.login);
 
       if (isPullInRange) {
@@ -194,7 +200,7 @@ const main = async () => {
       secondsToCloseIssues.push(secondsToClose);
     }
 
-    if (issue.user?.login) {
+    if (issue.user?.login && !isContributorABot(issue.user?.login)) {
       addNewContributorToBucket(key, issue.user.login);
 
       if (isIssueInRange) {
