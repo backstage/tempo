@@ -103,6 +103,8 @@ const main = async () => {
   const namesOfRecentContributors: Set<string> = new Set();
   const secondsToClosePulls: number[] = [];
   const secondsToCloseIssues: number[] = [];
+  const bucketPullCount: Record<string, number> = {};
+  const bucketNewContributors: Record<string, Set<string>> = {};
 
   /**
    * Takes a pull request or issue and returns true/false
@@ -110,9 +112,36 @@ const main = async () => {
    */
   const isPullOrIssueWithinMetricsRange = (pullOrIssue: GithubPullOrIssue) => {
     return (
-      DateTime.fromISO(pullOrIssue.created_at).diff(DateTime.now(), "days")
+      DateTime.now().diff(DateTime.fromISO(pullOrIssue.created_at), "days")
         .days < PAST_DAYS_FOR_METRICS
     );
+  };
+
+  /**
+   * Returns a weekly bucket key
+   */
+  const getBucketKey = (pullOrIssue: GithubPullOrIssue) => {
+    const dateTime = DateTime.fromISO(pullOrIssue.created_at);
+    return `${dateTime.year}:${dateTime.weekNumber}`;
+  };
+
+  /**
+   * Adds the first time a contributor is seen to the weekly buckets
+   */
+  const addNewContributorToBucket = (
+    bucketKey: string,
+    contributor: string
+  ) => {
+    bucketNewContributors[bucketKey] =
+      bucketNewContributors[bucketKey] || new Set<string>();
+
+    for (const contributors of Object.values(bucketNewContributors)) {
+      if (contributors.has(contributor)) {
+        return;
+      }
+    }
+
+    bucketNewContributors[bucketKey].add(contributor);
   };
 
   /**
@@ -131,28 +160,49 @@ const main = async () => {
    * Takes a pull request, extract the metrics and stores them.
    */
   const getPullMetrics = (pull: GithubPull) => {
+    const key = getBucketKey(pull);
     const secondsToClose = getSecondsToClose(pull);
+    const isPullInRange = isPullOrIssueWithinMetricsRange(pull);
 
-    if (isPullOrIssueWithinMetricsRange(pull)) {
-      if (secondsToClose) secondsToClosePulls.push(secondsToClose);
-      if (pull.user?.login) namesOfRecentContributors.add(pull.user.login);
+    bucketPullCount[key] = bucketPullCount[key] || 0;
+    bucketPullCount[key]++;
+
+    if (isPullInRange && secondsToClose) {
+      secondsToClosePulls.push(secondsToClose);
     }
 
-    if (pull.user?.login) namesOfContributors.add(pull.user.login);
+    if (pull.user?.login) {
+      addNewContributorToBucket(key, pull.user.login);
+
+      if (isPullInRange) {
+        namesOfRecentContributors.add(pull.user.login);
+      } else {
+        namesOfContributors.add(pull.user.login);
+      }
+    }
   };
 
   /**
    * Takes an pull request, extract the metrics and stores them.
    */
   const getIssueMetrics = (issue: GithubIssue) => {
+    const key = getBucketKey(issue);
     const secondsToClose = getSecondsToClose(issue);
+    const isIssueInRange = isPullOrIssueWithinMetricsRange(issue);
 
-    if (isPullOrIssueWithinMetricsRange(issue)) {
-      if (secondsToClose) secondsToCloseIssues.push(secondsToClose);
-      if (issue.user?.login) namesOfRecentContributors.add(issue.user.login);
+    if (isIssueInRange && secondsToClose) {
+      secondsToCloseIssues.push(secondsToClose);
     }
 
-    if (issue.user?.login) namesOfContributors.add(issue.user.login);
+    if (issue.user?.login) {
+      addNewContributorToBucket(key, issue.user.login);
+
+      if (isIssueInRange) {
+        namesOfRecentContributors.add(issue.user.login);
+      } else {
+        namesOfContributors.add(issue.user.login);
+      }
+    }
   };
 
   if (withMetrics) {
@@ -168,7 +218,7 @@ const main = async () => {
             repo: repo.name,
             per_page: 100,
             sort: "created",
-            direction: "desc",
+            direction: "asc",
             state: "closed",
           }
         );
@@ -189,7 +239,7 @@ const main = async () => {
             repo: repo.name,
             per_page: 100,
             sort: "created",
-            direction: "desc",
+            direction: "asc",
             state: "closed",
           }
         );
@@ -219,10 +269,22 @@ const main = async () => {
   const meanSecondsToClosePulls = mean(secondsToClosePulls);
   const meanSecondsToCloseIssues = mean(secondsToCloseIssues);
 
+  const pullCounts = Object.values(bucketPullCount);
+  const contributorCounts = Object.values(bucketNewContributors).map(
+    (c) => c.entries.length
+  );
+
+  const p50NumberOfNewPullsPerWeek = percentile(50, pullCounts);
+  const p50NumberOfNewContributorsPerWeek = percentile(50, contributorCounts);
+  const meanNumberOfNewPullsPerWeek = mean(pullCounts);
+  const meanNumberOfNewContributorsPerWeek = mean(contributorCounts);
+
   // Remove known contributors from the recent ones.
   namesOfRecentContributors.forEach((name) => {
     if (namesOfContributors.has(name)) {
       namesOfRecentContributors.delete(name);
+    } else {
+      namesOfContributors.add(name);
     }
   });
 
@@ -232,8 +294,12 @@ const main = async () => {
       namesOfContributors: Array.from(namesOfContributors),
       namesOfContributorsNew: Array.from(namesOfRecentContributors),
       numberOfPullRequestNew: secondsToClosePulls.length,
+      p50NumberOfNewPullsPerWeek,
+      p50NumberOfNewContributorsPerWeek,
       p50SecondsToClosePulls,
       p50SecondsToCloseIssues,
+      meanNumberOfNewPullsPerWeek,
+      meanNumberOfNewContributorsPerWeek,
       meanSecondsToClosePulls,
       meanSecondsToCloseIssues,
     },

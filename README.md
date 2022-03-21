@@ -41,6 +41,16 @@ Generates the metrics for the entire Backstage org.
      */
     numberOfPullRequestNew: number;
     /**
+     * p50 number of new pull requests
+     * submitted every week
+     */
+    p50NumberOfPullsPerWeek: number;
+    /**
+     * p50 number of new contributors
+     * every week.
+     */
+    p50NumberOfNewContributorsPerWeek: number;
+    /**
      * p50 of the time pull requests in the
      * last 30 days have been opened to the
      * time they were closed.
@@ -52,6 +62,16 @@ Generates the metrics for the entire Backstage org.
      * time they were closed.
      */
     p50SecondsToCloseIssues: number;
+    /**
+     * mean number of new pull requests
+     * submitted every week
+     */
+    meanNumberOfPullsPerWeek: number;
+    /**
+     * mean number of new contributors
+     * every week.
+     */
+    meanNumberOfNewContributorsPerWeek: number;
     /**
      * mean of the time pull requests in the
      * last 30 days have been opened to the
