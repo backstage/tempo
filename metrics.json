@@ -908,13 +908,13 @@
     "styler",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 463,
+  "numberOfPullRequestNew": 465,
   "p50NumberOfNewPullsPerWeek": 69,
-  "p50NumberOfNewContributorsPerWeek": 0,
+  "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 19880,
   "p50SecondsToCloseIssues": 297728,
-  "meanNumberOfNewPullsPerWeek": 64.94957983193277,
-  "meanNumberOfNewContributorsPerWeek": 0,
-  "meanSecondsToClosePulls": 125901.52267818575,
+  "meanNumberOfNewPullsPerWeek": 64.96638655462185,
+  "meanNumberOfNewContributorsPerWeek": 6.4033613445378155,
+  "meanSecondsToClosePulls": 125721.8817204301,
   "meanSecondsToCloseIssues": 375400.3333333333
 }
