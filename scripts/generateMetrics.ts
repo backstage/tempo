@@ -271,7 +271,7 @@ const main = async () => {
 
   const pullCounts = Object.values(bucketPullCount);
   const contributorCounts = Object.values(bucketNewContributors).map(
-    (c) => c.entries.length
+    (c) => c.size
   );
 
   const p50NumberOfNewPullsPerWeek = percentile(50, pullCounts);
