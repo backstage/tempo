@@ -102,7 +102,8 @@
     "[Alliander](https://www.alliander.com/)",
     "[VIA](https://www.via.com.br)",
     "[Surevine](https://www.surevine.com/)",
-    "[Bonial International GmbH](https://www.bonial.com/)"
+    "[Bonial International GmbH](https://www.bonial.com/)",
+    "[Beez Innovation Labs Pvt. Ltd](https://www.beezlabs.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -861,6 +862,9 @@
     "AaronvDiepen",
     "tuananh",
     "styler",
+    "karthikeyan23",
+    "esttorhe",
+    "bskarda",
     "karlhaworth"
   ],
   "namesOfContributorsNew": [
@@ -901,15 +905,18 @@
     "AaronvDiepen",
     "tuananh",
     "styler",
+    "karthikeyan23",
+    "esttorhe",
+    "bskarda",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 469,
+  "numberOfPullRequestNew": 494,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 21242,
+  "p50SecondsToClosePulls": 20673,
   "p50SecondsToCloseIssues": 489228,
-  "meanNumberOfNewPullsPerWeek": 65.03361344537815,
-  "meanNumberOfNewContributorsPerWeek": 6.361344537815126,
-  "meanSecondsToClosePulls": 132356.5778251599,
+  "meanNumberOfNewPullsPerWeek": 65.24369747899159,
+  "meanNumberOfNewContributorsPerWeek": 6.38655462184874,
+  "meanSecondsToClosePulls": 140404.03846153847,
   "meanSecondsToCloseIssues": 716342.1538461539
 }
