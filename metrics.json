@@ -824,6 +824,8 @@
     "magnusp",
     "jen13501",
     "pjungermann",
+    "cal5barton",
+    "shyamajp",
     "swist",
     "iamansoni",
     "thpham",
@@ -832,8 +834,6 @@
     "johanneswuerbach",
     "jorgelainfiesta",
     "wayne-thomson-iag",
-    "cal5barton",
-    "shyamajp",
     "andys-hoodie",
     "ptahdunbar",
     "marcus-crane",
@@ -875,9 +875,6 @@
     "karlhaworth"
   ],
   "namesOfContributorsNew": [
-    "cal5barton",
-    "shyamajp",
-    "andys-hoodie",
     "ptahdunbar",
     "marcus-crane",
     "heyLu",
@@ -917,13 +914,13 @@
     "bskarda",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 468,
+  "numberOfPullRequestNew": 444,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 23158,
+  "p50SecondsToClosePulls": 23337,
   "p50SecondsToCloseIssues": 489228,
-  "meanNumberOfNewPullsPerWeek": 65.80672268907563,
+  "meanNumberOfNewPullsPerWeek": 65.82352941176471,
   "meanNumberOfNewContributorsPerWeek": 6.436974789915967,
-  "meanSecondsToClosePulls": 154225.92521367522,
+  "meanSecondsToClosePulls": 148300.52027027027,
   "meanSecondsToCloseIssues": 716342.1538461539
 }
