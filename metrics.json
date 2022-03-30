@@ -872,6 +872,7 @@
     "hpatoio",
     "jvdrean",
     "yarodinD",
+    "mehmetmalli",
     "bskarda",
     "karlhaworth"
   ],
@@ -913,16 +914,17 @@
     "hpatoio",
     "jvdrean",
     "yarodinD",
+    "mehmetmalli",
     "bskarda",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 453,
+  "numberOfPullRequestNew": 465,
   "p50NumberOfNewPullsPerWeek": 69,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 23158,
+  "p50SecondsToClosePulls": 21242,
   "p50SecondsToCloseIssues": 489228,
-  "meanNumberOfNewPullsPerWeek": 65.41666666666667,
-  "meanNumberOfNewContributorsPerWeek": 6.391666666666667,
-  "meanSecondsToClosePulls": 149520.23178807946,
+  "meanNumberOfNewPullsPerWeek": 65.53333333333333,
+  "meanNumberOfNewContributorsPerWeek": 6.4,
+  "meanSecondsToClosePulls": 148402.28387096775,
   "meanSecondsToCloseIssues": 716342.1538461539
 }
