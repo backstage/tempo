@@ -840,6 +840,7 @@
     "Charge71",
     "realandersn",
     "robcresswell",
+    "alisaswong",
     "swist",
     "iamansoni",
     "thpham",
@@ -848,7 +849,6 @@
     "johanneswuerbach",
     "jorgelainfiesta",
     "wayne-thomson-iag",
-    "alisaswong",
     "tatehanawalt",
     "anicke",
     "charud",
@@ -886,7 +886,6 @@
     "karlhaworth"
   ],
   "namesOfContributorsNew": [
-    "alisaswong",
     "tatehanawalt",
     "anicke",
     "charud",
@@ -923,13 +922,13 @@
     "bskarda",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 436,
+  "numberOfPullRequestNew": 394,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 19880,
+  "p50SecondsToClosePulls": 21983,
   "p50SecondsToCloseIssues": 489228,
-  "meanNumberOfNewPullsPerWeek": 66.09166666666667,
+  "meanNumberOfNewPullsPerWeek": 66.1,
   "meanNumberOfNewContributorsPerWeek": 6.466666666666667,
-  "meanSecondsToClosePulls": 159132.87155963303,
+  "meanSecondsToClosePulls": 156668.923857868,
   "meanSecondsToCloseIssues": 716342.1538461539
 }
