@@ -845,6 +845,7 @@
     "anicke",
     "charud",
     "tim775",
+    "CandiedCode",
     "swist",
     "iamansoni",
     "thpham",
@@ -854,7 +855,6 @@
     "jorgelainfiesta",
     "wayne-thomson-iag",
     "alexlorenzi",
-    "CandiedCode",
     "Niekteg",
     "wisch628",
     "afscrome",
@@ -896,7 +896,6 @@
   ],
   "namesOfContributorsNew": [
     "alexlorenzi",
-    "CandiedCode",
     "Niekteg",
     "wisch628",
     "afscrome",
@@ -936,13 +935,13 @@
     "bskarda",
     "karlhaworth"
   ],
-  "numberOfPullRequestNew": 441,
+  "numberOfPullRequestNew": 432,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 23817,
-  "p50SecondsToCloseIssues": 328521,
-  "meanNumberOfNewPullsPerWeek": 66.18181818181819,
+  "p50SecondsToClosePulls": 21133,
+  "p50SecondsToCloseIssues": 489211,
+  "meanNumberOfNewPullsPerWeek": 66.3305785123967,
   "meanNumberOfNewContributorsPerWeek": 6.487603305785124,
-  "meanSecondsToClosePulls": 148951.42857142858,
-  "meanSecondsToCloseIssues": 524130
+  "meanSecondsToClosePulls": 128938.44444444444,
+  "meanSecondsToCloseIssues": 536347
 }
