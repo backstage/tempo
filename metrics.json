@@ -846,6 +846,8 @@
     "charud",
     "tim775",
     "CandiedCode",
+    "Niekteg",
+    "wisch628",
     "swist",
     "iamansoni",
     "thpham",
@@ -853,10 +855,9 @@
     "joaofnds",
     "johanneswuerbach",
     "jorgelainfiesta",
+    "karlhaworth",
     "wayne-thomson-iag",
     "alexlorenzi",
-    "Niekteg",
-    "wisch628",
     "afscrome",
     "MihaiTabara",
     "testn",
@@ -891,13 +892,11 @@
     "jbadeau",
     "rayabueg",
     "helaoutar",
-    "bskarda",
-    "karlhaworth"
+    "Don-CA",
+    "bskarda"
   ],
   "namesOfContributorsNew": [
     "alexlorenzi",
-    "Niekteg",
-    "wisch628",
     "afscrome",
     "MihaiTabara",
     "testn",
@@ -932,16 +931,16 @@
     "jbadeau",
     "rayabueg",
     "helaoutar",
-    "bskarda",
-    "karlhaworth"
+    "Don-CA",
+    "bskarda"
   ],
-  "numberOfPullRequestNew": 432,
+  "numberOfPullRequestNew": 442,
   "p50NumberOfNewPullsPerWeek": 70,
-  "p50NumberOfNewContributorsPerWeek": 6,
+  "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 21133,
   "p50SecondsToCloseIssues": 489211,
-  "meanNumberOfNewPullsPerWeek": 66.3305785123967,
-  "meanNumberOfNewContributorsPerWeek": 6.487603305785124,
-  "meanSecondsToClosePulls": 128938.44444444444,
-  "meanSecondsToCloseIssues": 536347
+  "meanNumberOfNewPullsPerWeek": 66.53719008264463,
+  "meanNumberOfNewContributorsPerWeek": 6.4958677685950414,
+  "meanSecondsToClosePulls": 130326.38687782806,
+  "meanSecondsToCloseIssues": 351347.3333333333
 }
