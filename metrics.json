@@ -105,7 +105,10 @@
     "[Bonial International GmbH](https://www.bonial.com/)",
     "[Beez Innovation Labs Pvt. Ltd](https://www.beezlabs.com/)",
     "[Agorapulse](https://www.agorapulse.com/)",
-    "[Wistia](https://wistia.com/)"
+    "[Wistia](https://wistia.com/)",
+    "[SIX](https://www.six-group.com/)",
+    "[Raiffeisen Bank International](https://www.rbinternational.com/)",
+    "[Spread Group](https://www.spreadgroup.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -851,6 +854,7 @@
     "afscrome",
     "MihaiTabara",
     "testn",
+    "uoxiu",
     "swist",
     "iamansoni",
     "thpham",
@@ -861,7 +865,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "alexlorenzi",
-    "uoxiu",
     "rex4539",
     "Hiiirad",
     "dabarbi",
@@ -898,7 +901,6 @@
   ],
   "namesOfContributorsNew": [
     "alexlorenzi",
-    "uoxiu",
     "rex4539",
     "Hiiirad",
     "dabarbi",
@@ -933,13 +935,13 @@
     "Don-CA",
     "bskarda"
   ],
-  "numberOfPullRequestNew": 422,
+  "numberOfPullRequestNew": 441,
   "p50NumberOfNewPullsPerWeek": 70,
-  "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 24376,
+  "p50NumberOfNewContributorsPerWeek": 6,
+  "p50SecondsToClosePulls": 23158,
   "p50SecondsToCloseIssues": 489211,
-  "meanNumberOfNewPullsPerWeek": 66.62809917355372,
-  "meanNumberOfNewContributorsPerWeek": 6.5041322314049586,
-  "meanSecondsToClosePulls": 143784.8672985782,
+  "meanNumberOfNewPullsPerWeek": 66.25409836065573,
+  "meanNumberOfNewContributorsPerWeek": 6.450819672131147,
+  "meanSecondsToClosePulls": 145435.50566893423,
   "meanSecondsToCloseIssues": 351347.3333333333
 }
