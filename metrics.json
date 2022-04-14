@@ -108,7 +108,8 @@
     "[Wistia](https://wistia.com/)",
     "[SIX](https://www.six-group.com/)",
     "[Raiffeisen Bank International](https://www.rbinternational.com/)",
-    "[Spread Group](https://www.spreadgroup.com/)"
+    "[Spread Group](https://www.spreadgroup.com/)",
+    "[RD Station](https://rdstation.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -897,8 +898,10 @@
     "jbadeau",
     "rayabueg",
     "helaoutar",
+    "sharadpattanshetti",
     "Don-CA",
     "VladMasarik",
+    "ericfitzpatrick",
     "bskarda"
   ],
   "namesOfContributorsNew": [
@@ -934,17 +937,19 @@
     "jbadeau",
     "rayabueg",
     "helaoutar",
+    "sharadpattanshetti",
     "Don-CA",
     "VladMasarik",
+    "ericfitzpatrick",
     "bskarda"
   ],
-  "numberOfPullRequestNew": 461,
+  "numberOfPullRequestNew": 451,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 24376,
+  "p50SecondsToClosePulls": 25434,
   "p50SecondsToCloseIssues": 489211,
-  "meanNumberOfNewPullsPerWeek": 66.4672131147541,
-  "meanNumberOfNewContributorsPerWeek": 6.467213114754099,
-  "meanSecondsToClosePulls": 162969.2863340564,
+  "meanNumberOfNewPullsPerWeek": 66.61475409836065,
+  "meanNumberOfNewContributorsPerWeek": 6.483606557377049,
+  "meanSecondsToClosePulls": 164392.31707317074,
   "meanSecondsToCloseIssues": 351347.3333333333
 }
