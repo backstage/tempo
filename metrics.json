@@ -902,7 +902,8 @@
     "Don-CA",
     "VladMasarik",
     "ericfitzpatrick",
-    "bskarda"
+    "bskarda",
+    "labianchin"
   ],
   "namesOfContributorsNew": [
     "alexlorenzi",
@@ -941,15 +942,16 @@
     "Don-CA",
     "VladMasarik",
     "ericfitzpatrick",
-    "bskarda"
+    "bskarda",
+    "labianchin"
   ],
-  "numberOfPullRequestNew": 451,
+  "numberOfPullRequestNew": 436,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 25434,
+  "p50SecondsToClosePulls": 27359,
   "p50SecondsToCloseIssues": 489211,
-  "meanNumberOfNewPullsPerWeek": 66.61475409836065,
-  "meanNumberOfNewContributorsPerWeek": 6.483606557377049,
-  "meanSecondsToClosePulls": 164392.31707317074,
+  "meanNumberOfNewPullsPerWeek": 66.68852459016394,
+  "meanNumberOfNewContributorsPerWeek": 6.491803278688525,
+  "meanSecondsToClosePulls": 166925.66743119265,
   "meanSecondsToCloseIssues": 351347.3333333333
 }
