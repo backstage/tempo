@@ -109,7 +109,8 @@
     "[SIX](https://www.six-group.com/)",
     "[Raiffeisen Bank International](https://www.rbinternational.com/)",
     "[Spread Group](https://www.spreadgroup.com/)",
-    "[RD Station](https://rdstation.com)"
+    "[RD Station](https://rdstation.com)",
+    "[Resuelve Tu Deuda](https://resuelve.mx)"
   ],
   "namesOfContributors": [
     "bih",
@@ -850,6 +851,7 @@
     "charud",
     "tim775",
     "CandiedCode",
+    "austin-garrard",
     "Niekteg",
     "wisch628",
     "afscrome",
@@ -857,6 +859,7 @@
     "testn",
     "uoxiu",
     "rex4539",
+    "carusooo",
     "Hiiirad",
     "dabarbi",
     "pedroparraortega",
@@ -881,6 +884,7 @@
     "shailahir",
     "esttorhe",
     "simongellis-attentive",
+    "chandru9279",
     "hpatoio",
     "jvdrean",
     "yarodinD",
@@ -914,6 +918,7 @@
     "shailahir",
     "esttorhe",
     "simongellis-attentive",
+    "chandru9279",
     "hpatoio",
     "jvdrean",
     "yarodinD",
@@ -940,13 +945,13 @@
     "bskarda",
     "labianchin"
   ],
-  "numberOfPullRequestNew": 368,
+  "numberOfPullRequestNew": 411,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 26306,
   "p50SecondsToCloseIssues": 59280,
-  "meanNumberOfNewPullsPerWeek": 66.81147540983606,
-  "meanNumberOfNewContributorsPerWeek": 6.508196721311475,
-  "meanSecondsToClosePulls": 133374.90489130435,
+  "meanNumberOfNewPullsPerWeek": 66.65040650406505,
+  "meanNumberOfNewContributorsPerWeek": 6.479674796747967,
+  "meanSecondsToClosePulls": 143152.64720194647,
   "meanSecondsToCloseIssues": 67441.5
 }
