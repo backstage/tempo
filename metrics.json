@@ -111,7 +111,9 @@
     "[Spread Group](https://www.spreadgroup.com/)",
     "[RD Station](https://rdstation.com)",
     "[Resuelve Tu Deuda](https://resuelve.mx)",
-    "[Pachama](https://pachama.com/)"
+    "[Pachama](https://pachama.com/)",
+    "[SEEK](https://www.seek.com.au)",
+    "[Marks & Spencer](https://www.marksandspencer.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -875,6 +877,7 @@
     "dev-geddy",
     "shailahir",
     "esttorhe",
+    "simongellis-attentive",
     "swist",
     "iamansoni",
     "thpham",
@@ -885,7 +888,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "alexlorenzi",
-    "simongellis-attentive",
     "chandru9279",
     "hpatoio",
     "jvdrean",
@@ -915,11 +917,13 @@
     "rthera7",
     "panagpapad",
     "agates4",
+    "lovie",
+    "yassire",
+    "kcheriyath",
     "labianchin"
   ],
   "namesOfContributorsNew": [
     "alexlorenzi",
-    "simongellis-attentive",
     "chandru9279",
     "hpatoio",
     "jvdrean",
@@ -949,15 +953,18 @@
     "rthera7",
     "panagpapad",
     "agates4",
+    "lovie",
+    "yassire",
+    "kcheriyath",
     "labianchin"
   ],
-  "numberOfPullRequestNew": 460,
+  "numberOfPullRequestNew": 470,
   "p50NumberOfNewPullsPerWeek": 70,
-  "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 25434,
+  "p50NumberOfNewContributorsPerWeek": 7,
+  "p50SecondsToClosePulls": 25070,
   "p50SecondsToCloseIssues": 59280,
-  "meanNumberOfNewPullsPerWeek": 67.32520325203252,
-  "meanNumberOfNewContributorsPerWeek": 6.520325203252033,
-  "meanSecondsToClosePulls": 142527.45434782607,
+  "meanNumberOfNewPullsPerWeek": 67.57723577235772,
+  "meanNumberOfNewContributorsPerWeek": 6.544715447154472,
+  "meanSecondsToClosePulls": 131852.28936170213,
   "meanSecondsToCloseIssues": 67441.5
 }
