@@ -962,13 +962,13 @@
     "shmaram",
     "labianchin"
   ],
-  "numberOfPullRequestNew": 442,
+  "numberOfPullRequestNew": 452,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
-  "p50SecondsToClosePulls": 25070,
+  "p50SecondsToClosePulls": 26306,
   "p50SecondsToCloseIssues": 606615,
-  "meanNumberOfNewPullsPerWeek": 67.13709677419355,
+  "meanNumberOfNewPullsPerWeek": 67.25,
   "meanNumberOfNewContributorsPerWeek": 6.524193548387097,
-  "meanSecondsToClosePulls": 143521.56787330317,
+  "meanSecondsToClosePulls": 142702.73008849556,
   "meanSecondsToCloseIssues": 391084.6
 }
