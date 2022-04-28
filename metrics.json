@@ -113,7 +113,10 @@
     "[Resuelve Tu Deuda](https://resuelve.mx)",
     "[Pachama](https://pachama.com/)",
     "[SEEK](https://www.seek.com.au)",
-    "[Marks & Spencer](https://www.marksandspencer.com/)"
+    "[Marks & Spencer](https://www.marksandspencer.com/)",
+    "[McKesson](https://www.mckesson.com/)",
+    "[World Fuel Services](https://www.wfscorp.com/)",
+    "[leboncoin](https://www.leboncoin.fr/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -912,6 +915,7 @@
     "VladMasarik",
     "ericfitzpatrick",
     "skgandikota",
+    "anirudhkurapati",
     "viktorbahr",
     "ctrombley",
     "ivanhoe",
@@ -924,6 +928,9 @@
     "yassire",
     "kcheriyath",
     "shmaram",
+    "aantony2",
+    "guilhermeeric",
+    "aladjadj",
     "labianchin"
   ],
   "namesOfContributorsNew": [
@@ -948,6 +955,7 @@
     "VladMasarik",
     "ericfitzpatrick",
     "skgandikota",
+    "anirudhkurapati",
     "viktorbahr",
     "ctrombley",
     "ivanhoe",
@@ -960,15 +968,18 @@
     "yassire",
     "kcheriyath",
     "shmaram",
+    "aantony2",
+    "guilhermeeric",
+    "aladjadj",
     "labianchin"
   ],
-  "numberOfPullRequestNew": 452,
+  "numberOfPullRequestNew": 475,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 26306,
   "p50SecondsToCloseIssues": 606615,
-  "meanNumberOfNewPullsPerWeek": 67.25,
-  "meanNumberOfNewContributorsPerWeek": 6.524193548387097,
-  "meanSecondsToClosePulls": 142702.73008849556,
+  "meanNumberOfNewPullsPerWeek": 67.56451612903226,
+  "meanNumberOfNewContributorsPerWeek": 6.556451612903226,
+  "meanSecondsToClosePulls": 145173.2947368421,
   "meanSecondsToCloseIssues": 391084.6
 }
