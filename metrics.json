@@ -971,13 +971,13 @@
     "labianchin",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 449,
+  "numberOfPullRequestNew": 431,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 6,
   "p50SecondsToClosePulls": 26306,
   "p50SecondsToCloseIssues": 606615,
-  "meanNumberOfNewPullsPerWeek": 67.79838709677419,
+  "meanNumberOfNewPullsPerWeek": 67.80645161290323,
   "meanNumberOfNewContributorsPerWeek": 6.57258064516129,
-  "meanSecondsToClosePulls": 133239.6302895323,
+  "meanSecondsToClosePulls": 132710.92111368908,
   "meanSecondsToCloseIssues": 391084.6
 }
