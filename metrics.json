@@ -903,6 +903,7 @@
     "maour",
     "jbadeau",
     "rayabueg",
+    "helaoutar",
     "swist",
     "iamansoni",
     "thpham",
@@ -912,7 +913,7 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "helaoutar",
+    "guvenaltunsoyy",
     "sharadpattanshetti",
     "Don-CA",
     "VladMasarik",
@@ -949,7 +950,7 @@
     "emccullagh"
   ],
   "namesOfContributorsNew": [
-    "helaoutar",
+    "guvenaltunsoyy",
     "sharadpattanshetti",
     "Don-CA",
     "VladMasarik",
@@ -985,13 +986,13 @@
     "labianchin",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 501,
+  "numberOfPullRequestNew": 511,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 21486,
+  "p50SecondsToClosePulls": 21829,
   "p50SecondsToCloseIssues": 606615,
-  "meanNumberOfNewPullsPerWeek": 68.28,
-  "meanNumberOfNewContributorsPerWeek": 6.6,
-  "meanSecondsToClosePulls": 133113.2115768463,
+  "meanNumberOfNewPullsPerWeek": 68.496,
+  "meanNumberOfNewContributorsPerWeek": 6.608,
+  "meanSecondsToClosePulls": 138531.2348336595,
   "meanSecondsToCloseIssues": 469955
 }
