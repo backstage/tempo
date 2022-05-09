@@ -906,6 +906,8 @@
     "helaoutar",
     "guvenaltunsoyy",
     "sharadpattanshetti",
+    "Don-CA",
+    "VladMasarik",
     "swist",
     "iamansoni",
     "thpham",
@@ -915,8 +917,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "Don-CA",
-    "VladMasarik",
     "ericfitzpatrick",
     "skgandikota",
     "ataker",
@@ -950,8 +950,6 @@
     "emccullagh"
   ],
   "namesOfContributorsNew": [
-    "Don-CA",
-    "VladMasarik",
     "ericfitzpatrick",
     "skgandikota",
     "ataker",
@@ -984,13 +982,13 @@
     "labianchin",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 490,
+  "numberOfPullRequestNew": 466,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 21801,
+  "p50SecondsToClosePulls": 21790,
   "p50SecondsToCloseIssues": 606615,
   "meanNumberOfNewPullsPerWeek": 68.496,
   "meanNumberOfNewContributorsPerWeek": 6.608,
-  "meanSecondsToClosePulls": 135401.78367346938,
+  "meanSecondsToClosePulls": 136007.1094420601,
   "meanSecondsToCloseIssues": 469955
 }
