@@ -1001,13 +1001,13 @@
     "ChristopherFry",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 461,
+  "numberOfPullRequestNew": 455,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 16527,
-  "p50SecondsToCloseIssues": 606615,
+  "p50SecondsToClosePulls": 16188,
+  "p50SecondsToCloseIssues": 606952,
   "meanNumberOfNewPullsPerWeek": 68.69047619047619,
   "meanNumberOfNewContributorsPerWeek": 6.658730158730159,
-  "meanSecondsToClosePulls": 112835.57700650759,
-  "meanSecondsToCloseIssues": 469955
+  "meanSecondsToClosePulls": 110575.40659340659,
+  "meanSecondsToCloseIssues": 606846.6666666666
 }
