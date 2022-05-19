@@ -965,6 +965,8 @@
     "ChristopherFry",
     "tritri251214",
     "manuelscurti",
+    "sqdk",
+    "dgiacomo",
     "emccullagh"
   ],
   "namesOfContributorsNew": [
@@ -1005,14 +1007,16 @@
     "ChristopherFry",
     "tritri251214",
     "manuelscurti",
+    "sqdk",
+    "dgiacomo",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 481,
+  "numberOfPullRequestNew": 511,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 16856,
-  "meanNumberOfNewPullsPerWeek": 68.36220472440945,
-  "meanNumberOfNewContributorsPerWeek": 6.6299212598425195,
-  "meanSecondsToClosePulls": 128814.14968814969,
+  "p50SecondsToClosePulls": 15320,
+  "meanNumberOfNewPullsPerWeek": 68.63779527559055,
+  "meanNumberOfNewContributorsPerWeek": 6.645669291338582,
+  "meanSecondsToClosePulls": 127628.13111545988,
   "meanSecondsToCloseIssues": null
 }
