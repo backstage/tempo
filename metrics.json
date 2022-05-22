@@ -931,6 +931,7 @@
     "agates4",
     "lovie",
     "mryave",
+    "yassire",
     "swist",
     "iamansoni",
     "thpham",
@@ -942,7 +943,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "aladjadj",
-    "yassire",
     "kcheriyath",
     "shmaram",
     "aantony2",
@@ -983,7 +983,6 @@
   ],
   "namesOfContributorsNew": [
     "aladjadj",
-    "yassire",
     "kcheriyath",
     "shmaram",
     "aantony2",
@@ -1022,12 +1021,12 @@
     "Sebelino",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 447,
+  "numberOfPullRequestNew": 424,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 16527,
-  "meanNumberOfNewPullsPerWeek": 68.92913385826772,
+  "p50SecondsToClosePulls": 15320,
+  "meanNumberOfNewPullsPerWeek": 68.93700787401575,
   "meanNumberOfNewContributorsPerWeek": 6.700787401574803,
-  "meanSecondsToClosePulls": 147393.28187919463,
+  "meanSecondsToClosePulls": 144615.87735849057,
   "meanSecondsToCloseIssues": null
 }
