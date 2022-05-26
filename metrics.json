@@ -971,6 +971,7 @@
     "beveradb",
     "goququ",
     "ChristopherFry",
+    "omerfarukdogan",
     "ivangonzalezacuna",
     "arhill05",
     "blakeromano",
@@ -980,6 +981,7 @@
     "UsainBloot",
     "dgiacomo",
     "Sebelino",
+    "brian-fa",
     "emccullagh"
   ],
   "namesOfContributorsNew": [
@@ -1009,6 +1011,7 @@
     "beveradb",
     "goququ",
     "ChristopherFry",
+    "omerfarukdogan",
     "ivangonzalezacuna",
     "arhill05",
     "blakeromano",
@@ -1018,14 +1021,15 @@
     "UsainBloot",
     "dgiacomo",
     "Sebelino",
+    "brian-fa",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 404,
+  "numberOfPullRequestNew": 394,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 15320,
-  "meanNumberOfNewPullsPerWeek": 68.484375,
-  "meanNumberOfNewContributorsPerWeek": 6.65625,
-  "meanSecondsToClosePulls": 129635.42574257425,
+  "p50SecondsToClosePulls": 13518,
+  "meanNumberOfNewPullsPerWeek": 68.5078125,
+  "meanNumberOfNewContributorsPerWeek": 6.671875,
+  "meanSecondsToClosePulls": 128253.93908629441,
   "meanSecondsToCloseIssues": null
 }
