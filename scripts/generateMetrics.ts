@@ -239,7 +239,7 @@ const main = async () => {
         }
 
         const iteratorIssues = octokit.paginate.iterator(
-          octokit.rest.issues.list,
+          octokit.rest.issues.listForRepo,
           {
             owner: REPO_ORG,
             repo: repo.name,
@@ -255,7 +255,14 @@ const main = async () => {
           console.log("Processing issues: ", issues.length);
 
           for (const issue of issues) {
-            getIssueMetrics(issue);
+            if (!("pull_request" in issue)) {
+              issueCount++;
+              getIssueMetrics(issue);
+            }
+          }
+
+          if (withSubset) {
+            break;
           }
         }
       }
