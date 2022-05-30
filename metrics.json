@@ -939,6 +939,7 @@
     "guilhermeeric",
     "aladjadj",
     "thatnerdjosh",
+    "claudiahub",
     "swist",
     "iamansoni",
     "johanneswuerbach",
@@ -949,7 +950,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "claudiahub",
     "skfarhat",
     "nitsas",
     "samuelwcampbell",
@@ -988,7 +988,6 @@
     "emccullagh"
   ],
   "namesOfContributorsNew": [
-    "claudiahub",
     "skfarhat",
     "nitsas",
     "samuelwcampbell",
@@ -1026,12 +1025,12 @@
     "jpitapeva",
     "emccullagh"
   ],
-  "numberOfPullRequestNew": 337,
+  "numberOfPullRequestNew": 323,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 13518,
+  "p50SecondsToClosePulls": 12522,
   "meanNumberOfNewPullsPerWeek": 68.5859375,
   "meanNumberOfNewContributorsPerWeek": 6.6953125,
-  "meanSecondsToClosePulls": 126525.20178041543,
+  "meanSecondsToClosePulls": 121608.90092879257,
   "meanSecondsToCloseIssues": null
 }
