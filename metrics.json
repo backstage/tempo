@@ -126,7 +126,8 @@
     "[Lightspeed](http://lightspeedhq.com/)",
     "[Siemens](https://www.siemens.com/global/en.html)",
     "[The Warehouse Group](https://www.thewarehouse.co.nz)",
-    "[Tink](https://tink.com/)"
+    "[Tink](https://tink.com/)",
+    "[Brandwatch](https://brandwatch.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -947,6 +948,7 @@
     "victorradael",
     "bskarda",
     "labianchin",
+    "emccullagh",
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
@@ -954,6 +956,7 @@
     "nitsas",
     "samuelwcampbell",
     "mhaley37",
+    "renjiexu",
     "4upz-tw",
     "Balfa",
     "dbravovmw",
@@ -983,15 +986,16 @@
     "UsainBloot",
     "dgiacomo",
     "Sebelino",
+    "jakubcierlik",
     "brian-fa",
-    "jpitapeva",
-    "emccullagh"
+    "jpitapeva"
   ],
   "namesOfContributorsNew": [
     "skfarhat",
     "nitsas",
     "samuelwcampbell",
     "mhaley37",
+    "renjiexu",
     "4upz-tw",
     "Balfa",
     "dbravovmw",
@@ -1021,16 +1025,16 @@
     "UsainBloot",
     "dgiacomo",
     "Sebelino",
+    "jakubcierlik",
     "brian-fa",
-    "jpitapeva",
-    "emccullagh"
+    "jpitapeva"
   ],
-  "numberOfPullRequestNew": 323,
+  "numberOfPullRequestNew": 354,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 12522,
-  "meanNumberOfNewPullsPerWeek": 68.5859375,
-  "meanNumberOfNewContributorsPerWeek": 6.6953125,
-  "meanSecondsToClosePulls": 121608.90092879257,
+  "p50SecondsToClosePulls": 13172,
+  "meanNumberOfNewPullsPerWeek": 68.32558139534883,
+  "meanNumberOfNewContributorsPerWeek": 6.658914728682171,
+  "meanSecondsToClosePulls": 157916.24858757062,
   "meanSecondsToCloseIssues": null
 }
