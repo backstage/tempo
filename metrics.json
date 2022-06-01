@@ -127,7 +127,9 @@
     "[Siemens](https://www.siemens.com/global/en.html)",
     "[The Warehouse Group](https://www.thewarehouse.co.nz)",
     "[Tink](https://tink.com/)",
-    "[Brandwatch](https://brandwatch.com)"
+    "[Brandwatch](https://brandwatch.com)",
+    "[Laybuy](https://www.laybuy.com)",
+    "[Sendinblue](https://engineering.sendinblue.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -984,11 +986,16 @@
     "manuelscurti",
     "sqdk",
     "UsainBloot",
+    "jsundquist",
     "dgiacomo",
     "Sebelino",
     "jakubcierlik",
     "brian-fa",
-    "jpitapeva"
+    "isand3r",
+    "jpitapeva",
+    "Jefwillems",
+    "leodag",
+    "ziyashaw"
   ],
   "namesOfContributorsNew": [
     "skfarhat",
@@ -1023,18 +1030,23 @@
     "manuelscurti",
     "sqdk",
     "UsainBloot",
+    "jsundquist",
     "dgiacomo",
     "Sebelino",
     "jakubcierlik",
     "brian-fa",
-    "jpitapeva"
+    "isand3r",
+    "jpitapeva",
+    "Jefwillems",
+    "leodag",
+    "ziyashaw"
   ],
-  "numberOfPullRequestNew": 354,
+  "numberOfPullRequestNew": 372,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 13172,
-  "meanNumberOfNewPullsPerWeek": 68.32558139534883,
-  "meanNumberOfNewContributorsPerWeek": 6.658914728682171,
-  "meanSecondsToClosePulls": 157916.24858757062,
+  "p50SecondsToClosePulls": 13772,
+  "meanNumberOfNewPullsPerWeek": 68.48837209302326,
+  "meanNumberOfNewContributorsPerWeek": 6.6976744186046515,
+  "meanSecondsToClosePulls": 165274.31451612903,
   "meanSecondsToCloseIssues": null
 }
