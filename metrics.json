@@ -149,7 +149,8 @@
     "[Alef Education](https://www.alefeducation.com)",
     "[Zego](https://www.zego.com)",
     "[Absa Group Limited](https://www.absa.africa/absaafrica/)",
-    "[Nutrien Ag Solutions](https://www.nutrienagsolutions.com.au)"
+    "[Nutrien Ag Solutions](https://www.nutrienagsolutions.com.au)",
+    "[Lendingkart](https://www.lendingkart.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -969,6 +970,7 @@
     "mhaley37",
     "renjiexu",
     "4upz-tw",
+    "Balfa",
     "swist",
     "iamansoni",
     "johanneswuerbach",
@@ -980,7 +982,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "Balfa",
     "dbravovmw",
     "dhanu0001",
     "wasadigi",
@@ -1022,7 +1023,6 @@
     "ziyashaw"
   ],
   "namesOfContributorsNew": [
-    "Balfa",
     "dbravovmw",
     "dhanu0001",
     "wasadigi",
@@ -1063,12 +1063,12 @@
     "dinesh-lendingkart",
     "ziyashaw"
   ],
-  "numberOfPullRequestNew": 363,
+  "numberOfPullRequestNew": 346,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
-  "p50SecondsToClosePulls": 8447,
-  "meanNumberOfNewPullsPerWeek": 68.95348837209302,
+  "p50SecondsToClosePulls": 10881,
+  "meanNumberOfNewPullsPerWeek": 69.10077519379846,
   "meanNumberOfNewContributorsPerWeek": 6.728682170542636,
-  "meanSecondsToClosePulls": 173023.23966942148,
+  "meanSecondsToClosePulls": 183103.81502890174,
   "meanSecondsToCloseIssues": null
 }
