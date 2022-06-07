@@ -8,6 +8,7 @@ import { DateTime } from "luxon";
 import percentile from "percentile";
 import mean from "lodash.mean";
 import { Remarkable } from "remarkable";
+import { Spinner } from "cli-spinner";
 
 type GithubPull =
   RestEndpointMethodTypes["pulls"]["list"]["response"]["data"][0];
@@ -26,6 +27,7 @@ const argv = minimist(process.argv.slice(2));
 const commitChanges = "commitChanges" in argv;
 const withMetrics = "withMetrics" in argv;
 const withAdopterList = "withAdopterList" in argv;
+const withSubset = "withSubset" in argv;
 
 if (!process.env.GITHUB_TOKEN) {
   console.error("GITHUB_TOKEN is not set. Please provide a Github token");
@@ -46,6 +48,8 @@ if (!commitChanges) {
     "⚠️  Running in dryrun mode, no metrics will be commited back ⚠️"
   );
 }
+
+const clearLine = () => process.stdout.write("\r\x1b[K");
 
 const isContributorABot = (contributor: string) => {
   const botAccounts = ["snyk-bot"];
@@ -215,8 +219,11 @@ const main = async () => {
     // For each repo in the backstage org
     for await (const { data: repos } of iteratorRepos) {
       for (const repo of repos) {
-        console.log("Processing repo: ", repo.name);
+        let spinner = new Spinner(
+          ` ${repo.name}: fetching pull requests`
+        ).start();
 
+        let pullRequestCount = 0;
         const iteratorPulls = octokit.paginate.iterator(
           octokit.rest.pulls.list,
           {
@@ -231,15 +238,27 @@ const main = async () => {
 
         // For each pull request in the repo in the last N days
         for await (const { data: pulls } of iteratorPulls) {
-          console.log("Processing pulls: ", pulls.length);
-
           for (const pull of pulls) {
+            pullRequestCount++;
             getPullMetrics(pull);
+          }
+
+          if (withSubset) {
+            break;
           }
         }
 
+        spinner.stop();
+        clearLine();
+        process.stdout.write(
+          `✅ ${repo.name}: ${pullRequestCount} pull requests found`
+        );
+        process.stdout.write("\n");
+        spinner = new Spinner(` ${repo.name}: fetching issues`).start();
+
+        let issueCount = 0;
         const iteratorIssues = octokit.paginate.iterator(
-          octokit.rest.issues.list,
+          octokit.rest.issues.listForRepo,
           {
             owner: REPO_ORG,
             repo: repo.name,
@@ -252,12 +271,22 @@ const main = async () => {
 
         // For each issue in the repo in the last N days
         for await (const { data: issues } of iteratorIssues) {
-          console.log("Processing issues: ", issues.length);
-
           for (const issue of issues) {
-            getIssueMetrics(issue);
+            if (!("pull_request" in issue)) {
+              issueCount++;
+              getIssueMetrics(issue);
+            }
+          }
+
+          if (withSubset) {
+            break;
           }
         }
+
+        spinner.stop();
+        clearLine();
+        process.stdout.write(`✅ ${repo.name}: ${issueCount} issues found`);
+        process.stdout.write("\n");
       }
     }
   }
@@ -312,8 +341,6 @@ const main = async () => {
     null,
     2
   );
-
-  console.log(metrics);
 
   /**
    * Commit the metrics back to the repo.
