@@ -995,6 +995,7 @@
     "peterleonardlie",
     "antoniomuso",
     "joosthofman",
+    "flyboarder",
     "sergeyshevch",
     "beveradb",
     "goququ",
@@ -1027,6 +1028,7 @@
     "peterleonardlie",
     "antoniomuso",
     "joosthofman",
+    "flyboarder",
     "sergeyshevch",
     "beveradb",
     "goququ",
@@ -1055,12 +1057,12 @@
     "dinesh-lendingkart",
     "ziyashaw"
   ],
-  "numberOfPullRequestNew": 314,
+  "numberOfPullRequestNew": 321,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 7,
   "p50SecondsToClosePulls": 8118,
-  "meanNumberOfNewPullsPerWeek": 69.1937984496124,
-  "meanNumberOfNewContributorsPerWeek": 6.736434108527132,
-  "meanSecondsToClosePulls": 165416.0414012739,
+  "meanNumberOfNewPullsPerWeek": 68.71538461538462,
+  "meanNumberOfNewContributorsPerWeek": 6.744186046511628,
+  "meanSecondsToClosePulls": 181317.8940809969,
   "meanSecondsToCloseIssues": null
 }
