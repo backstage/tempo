@@ -1005,6 +1005,7 @@
     "ivangonzalezacuna",
     "beveradb",
     "goququ",
+    "HansKre",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1366,7 +1367,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "HansKre",
     "ChristopherFry",
     "omerfarukdogan",
     "blakeromano",
@@ -1409,7 +1409,6 @@
     "bourbonfgiles"
   ],
   "namesOfContributorsNew": [
-    "HansKre",
     "ChristopherFry",
     "omerfarukdogan",
     "blakeromano",
@@ -1451,13 +1450,13 @@
     "ChrisJBurns",
     "bourbonfgiles"
   ],
-  "numberOfPullRequestNew": 333,
+  "numberOfPullRequestNew": 313,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 9,
-  "p50SecondsToClosePulls": 9309,
+  "p50SecondsToClosePulls": 9371,
   "p50SecondsToCloseIssues": 276254,
-  "meanNumberOfNewPullsPerWeek": 69.34615384615384,
+  "meanNumberOfNewPullsPerWeek": 69.35384615384615,
   "meanNumberOfNewContributorsPerWeek": 9.541984732824428,
-  "meanSecondsToClosePulls": 162297.68468468467,
-  "meanSecondsToCloseIssues": 457531.7
+  "meanSecondsToClosePulls": 152378.76038338657,
+  "meanSecondsToCloseIssues": 443142.3076923077
 }
