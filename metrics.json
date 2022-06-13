@@ -154,7 +154,8 @@
     "[Meltwater](https://underthehood.meltwater.com)",
     "[Doctolib](https://doctolib.engineering/)",
     "[Twilio](https://www.twilio.com)",
-    "[OVHcloud](https://www.ovhcloud.com/fr/)"
+    "[OVHcloud](https://www.ovhcloud.com/fr/)",
+    "[Procter & Gamble](https://us.pg.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1006,6 +1007,9 @@
     "beveradb",
     "goququ",
     "HansKre",
+    "ChristopherFry",
+    "omerfarukdogan",
+    "arhill05",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1095,7 +1099,6 @@
     "Anoyomouse",
     "rneumaier",
     "nikhilesh-parupalli",
-    "arhill05",
     "facos86",
     "tylermarien",
     "thomvaill",
@@ -1344,6 +1347,7 @@
     "ToriBrillaud",
     "dyu-bot",
     "alexweide",
+    "SpyQuel",
     "iamansoni",
     "johanneswuerbach",
     "RmMsr",
@@ -1367,8 +1371,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "ChristopherFry",
-    "omerfarukdogan",
     "blakeromano",
     "tritri251214",
     "manuelscurti",
@@ -1395,7 +1397,7 @@
     "knksmith57",
     "pitwegner",
     "raffitamizian",
-    "SpyQuel",
+    "binitan",
     "Hanyman8",
     "cmoulliard",
     "kmatyukhin",
@@ -1409,8 +1411,6 @@
     "bourbonfgiles"
   ],
   "namesOfContributorsNew": [
-    "ChristopherFry",
-    "omerfarukdogan",
     "blakeromano",
     "tritri251214",
     "manuelscurti",
@@ -1437,7 +1437,7 @@
     "knksmith57",
     "pitwegner",
     "raffitamizian",
-    "SpyQuel",
+    "binitan",
     "Hanyman8",
     "cmoulliard",
     "kmatyukhin",
@@ -1450,13 +1450,13 @@
     "ChrisJBurns",
     "bourbonfgiles"
   ],
-  "numberOfPullRequestNew": 313,
+  "numberOfPullRequestNew": 307,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 9,
-  "p50SecondsToClosePulls": 9371,
-  "p50SecondsToCloseIssues": 276254,
-  "meanNumberOfNewPullsPerWeek": 69.35384615384615,
-  "meanNumberOfNewContributorsPerWeek": 9.541984732824428,
-  "meanSecondsToClosePulls": 152378.76038338657,
-  "meanSecondsToCloseIssues": 443142.3076923077
+  "p50SecondsToClosePulls": 8128,
+  "p50SecondsToCloseIssues": 265135,
+  "meanNumberOfNewPullsPerWeek": 69.38461538461539,
+  "meanNumberOfNewContributorsPerWeek": 9.549618320610687,
+  "meanSecondsToClosePulls": 142959.28664495115,
+  "meanSecondsToCloseIssues": 440874.3157894737
 }
