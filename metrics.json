@@ -1490,13 +1490,13 @@
     "twanbeeren",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 335,
+  "numberOfPullRequestNew": 323,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 9,
-  "p50SecondsToClosePulls": 6337,
-  "p50SecondsToCloseIssues": 258762,
+  "p50SecondsToClosePulls": 5420,
+  "p50SecondsToCloseIssues": 251939,
   "meanNumberOfNewPullsPerWeek": 69.53435114503817,
   "meanNumberOfNewContributorsPerWeek": 9.628787878787879,
-  "meanSecondsToClosePulls": 132960.84776119402,
-  "meanSecondsToCloseIssues": 413232.2051282051
+  "meanSecondsToClosePulls": 126556.34984520124,
+  "meanSecondsToCloseIssues": 397698.15789473685
 }
