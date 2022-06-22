@@ -177,7 +177,8 @@
     "[Polarpoint](https://polarpoint.io/)",
     "[Niche](https://niche.com)",
     "[Mercedes-Benz.io](https://www.mercedes-benz.io/)",
-    "[Funding Circle](https://www.fundingcircle.com/)"
+    "[Funding Circle](https://www.fundingcircle.com/)",
+    "[Clarivate](https://www.clarivate.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1349,6 +1350,7 @@
     "chainalert-bot",
     "marlonmg09",
     "LoveraSantiago",
+    "clareliguori",
     "sbellam1187",
     "cablunar",
     "adamo57",
@@ -1444,6 +1446,7 @@
     "tomasrb",
     "nmarinel",
     "YasserToutah",
+    "gabnou",
     "darrenyung",
     "mrwolny",
     "GonMMarques",
@@ -1457,6 +1460,7 @@
     "ChrisJBurns",
     "bourbonfgiles",
     "twanbeeren",
+    "18521542",
     "Vrtak-CZ",
     "ctoestreich"
   ],
@@ -1490,6 +1494,7 @@
     "tomasrb",
     "nmarinel",
     "YasserToutah",
+    "gabnou",
     "darrenyung",
     "mrwolny",
     "GonMMarques",
@@ -1503,16 +1508,17 @@
     "ChrisJBurns",
     "bourbonfgiles",
     "twanbeeren",
+    "18521542",
     "Vrtak-CZ",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 343,
+  "numberOfPullRequestNew": 366,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5004,
+  "p50SecondsToClosePulls": 5329,
   "p50SecondsToCloseIssues": 256557,
-  "meanNumberOfNewPullsPerWeek": 69.27272727272727,
-  "meanNumberOfNewContributorsPerWeek": 9.61654135338346,
-  "meanSecondsToClosePulls": 134387.5189504373,
-  "meanSecondsToCloseIssues": 453997.08108108107
+  "meanNumberOfNewPullsPerWeek": 69.5,
+  "meanNumberOfNewContributorsPerWeek": 9.639097744360901,
+  "meanSecondsToClosePulls": 139873.9180327869,
+  "meanSecondsToCloseIssues": 444079.46153846156
 }
