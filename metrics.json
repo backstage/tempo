@@ -178,7 +178,8 @@
     "[Niche](https://niche.com)",
     "[Mercedes-Benz.io](https://www.mercedes-benz.io/)",
     "[Funding Circle](https://www.fundingcircle.com/)",
-    "[Clarivate](https://www.clarivate.com)"
+    "[Clarivate](https://www.clarivate.com)",
+    "[Cho Tot](https://www.chotot.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1041,6 +1042,7 @@
     "jsundquist",
     "dgiacomo",
     "Sebelino",
+    "bainss",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1417,7 +1419,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "bainss",
     "jakubcierlik",
     "brian-fa",
     "jpitapeva",
@@ -1451,6 +1452,8 @@
     "mrwolny",
     "GonMMarques",
     "arielpacciaroni",
+    "nguyentranbao-ct",
+    "JellyBellyDev",
     "msperrin",
     "mikekantzer-drizly",
     "gabrielpasv",
@@ -1462,10 +1465,10 @@
     "twanbeeren",
     "18521542",
     "Vrtak-CZ",
+    "fabiancook",
     "ctoestreich"
   ],
   "namesOfContributorsNew": [
-    "bainss",
     "jakubcierlik",
     "brian-fa",
     "jpitapeva",
@@ -1499,6 +1502,8 @@
     "mrwolny",
     "GonMMarques",
     "arielpacciaroni",
+    "nguyentranbao-ct",
+    "JellyBellyDev",
     "msperrin",
     "mikekantzer-drizly",
     "gabrielpasv",
@@ -1510,15 +1515,16 @@
     "twanbeeren",
     "18521542",
     "Vrtak-CZ",
+    "fabiancook",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 366,
+  "numberOfPullRequestNew": 385,
   "p50NumberOfNewPullsPerWeek": 70,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5329,
+  "p50SecondsToClosePulls": 5261,
   "p50SecondsToCloseIssues": 256557,
-  "meanNumberOfNewPullsPerWeek": 69.5,
-  "meanNumberOfNewContributorsPerWeek": 9.639097744360901,
-  "meanSecondsToClosePulls": 139873.9180327869,
-  "meanSecondsToCloseIssues": 444079.46153846156
+  "meanNumberOfNewPullsPerWeek": 69.66666666666667,
+  "meanNumberOfNewContributorsPerWeek": 9.661654135338345,
+  "meanSecondsToClosePulls": 128533.34025974026,
+  "meanSecondsToCloseIssues": 481852.5
 }
