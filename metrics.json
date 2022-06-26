@@ -1045,6 +1045,8 @@
     "bainss",
     "jakubcierlik",
     "brian-fa",
+    "isand3r",
+    "jpitapeva",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1380,7 +1382,6 @@
     "SofianeDev94",
     "vbyjsue",
     "Kris-B",
-    "isand3r",
     "KariemSoudy",
     "MelnikovAG",
     "cvrlnolan",
@@ -1422,7 +1423,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "jpitapeva",
     "Jefwillems",
     "arsentos",
     "ivd-git",
@@ -1473,7 +1473,6 @@
     "ctoestreich"
   ],
   "namesOfContributorsNew": [
-    "jpitapeva",
     "Jefwillems",
     "arsentos",
     "ivd-git",
@@ -1523,13 +1522,13 @@
     "fabiancook",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 391,
+  "numberOfPullRequestNew": 385,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5668,
-  "p50SecondsToCloseIssues": 256557,
+  "p50SecondsToClosePulls": 5261,
+  "p50SecondsToCloseIssues": 251939,
   "meanNumberOfNewPullsPerWeek": 69.81818181818181,
   "meanNumberOfNewContributorsPerWeek": 9.691729323308271,
-  "meanSecondsToClosePulls": 126519.24808184143,
-  "meanSecondsToCloseIssues": 470289.5238095238
+  "meanSecondsToClosePulls": 118066.64155844155,
+  "meanSecondsToCloseIssues": 416056.23076923075
 }
