@@ -180,7 +180,8 @@
     "[Funding Circle](https://www.fundingcircle.com/)",
     "[Clarivate](https://www.clarivate.com)",
     "[Cho Tot](https://www.chotot.com)",
-    "[William Hill](https://www.williamhillgroup.com/)"
+    "[William Hill](https://www.williamhillgroup.com/)",
+    "[Vodafone NewZealand Limited](https://vodafone.co.nz)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1459,7 +1460,11 @@
     "arielpacciaroni",
     "nguyentranbao-ct",
     "JellyBellyDev",
+    "fabbazon",
     "erikprice",
+    "ashu16815",
+    "joanayma",
+    "MichaelLima",
     "mikekantzer-drizly",
     "gabrielpasv",
     "Kuan-Ying",
@@ -1510,7 +1515,11 @@
     "arielpacciaroni",
     "nguyentranbao-ct",
     "JellyBellyDev",
+    "fabbazon",
     "erikprice",
+    "ashu16815",
+    "joanayma",
+    "MichaelLima",
     "mikekantzer-drizly",
     "gabrielpasv",
     "Kuan-Ying",
@@ -1528,13 +1537,13 @@
     "goshlanguage",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 388,
+  "numberOfPullRequestNew": 422,
   "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5004,
+  "p50SecondsToClosePulls": 4571,
   "p50SecondsToCloseIssues": 223598,
-  "meanNumberOfNewPullsPerWeek": 69.36842105263158,
-  "meanNumberOfNewContributorsPerWeek": 9.649253731343284,
-  "meanSecondsToClosePulls": 114014.44845360825,
-  "meanSecondsToCloseIssues": 393999.94736842107
+  "meanNumberOfNewPullsPerWeek": 69.62406015037594,
+  "meanNumberOfNewContributorsPerWeek": 9.67910447761194,
+  "meanSecondsToClosePulls": 117474.97630331754,
+  "meanSecondsToCloseIssues": 392706.7368421053
 }
