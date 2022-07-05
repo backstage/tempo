@@ -1482,6 +1482,9 @@
     "holiiveira",
     "codermango",
     "davidrv87",
+    "simonecorsi",
+    "steinwelberg",
+    "jensamoller",
     "mstelz",
     "ChrisJBurns",
     "bourbonfgiles",
@@ -1494,6 +1497,7 @@
     "mustafazeya",
     "fabiancook",
     "goshlanguage",
+    "bchalk101",
     "ctoestreich"
   ],
   "namesOfContributorsNew": [
@@ -1532,6 +1536,9 @@
     "holiiveira",
     "codermango",
     "davidrv87",
+    "simonecorsi",
+    "steinwelberg",
+    "jensamoller",
     "mstelz",
     "ChrisJBurns",
     "bourbonfgiles",
@@ -1544,15 +1551,16 @@
     "mustafazeya",
     "fabiancook",
     "goshlanguage",
+    "bchalk101",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 396,
-  "p50NumberOfNewPullsPerWeek": 72,
+  "numberOfPullRequestNew": 422,
+  "p50NumberOfNewPullsPerWeek": 71,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5083,
-  "p50SecondsToCloseIssues": 168421,
-  "meanNumberOfNewPullsPerWeek": 70.38345864661655,
-  "meanNumberOfNewContributorsPerWeek": 9.776119402985074,
-  "meanSecondsToClosePulls": 149419.297979798,
-  "meanSecondsToCloseIssues": 293835.80555555556
+  "p50SecondsToClosePulls": 5074,
+  "p50SecondsToCloseIssues": 238979,
+  "meanNumberOfNewPullsPerWeek": 70.07462686567165,
+  "meanNumberOfNewContributorsPerWeek": 9.733333333333333,
+  "meanSecondsToClosePulls": 147898.79383886256,
+  "meanSecondsToCloseIssues": 319730.28571428574
 }
