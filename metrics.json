@@ -1084,6 +1084,8 @@
     "knksmith57",
     "cklewin",
     "brentg-telus",
+    "pitwegner",
+    "raffitamizian",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1469,8 +1471,6 @@
     "jorgelainfiesta",
     "karlhaworth",
     "wayne-thomson-iag",
-    "pitwegner",
-    "raffitamizian",
     "binitan",
     "ajbw",
     "austin5456",
@@ -1525,8 +1525,6 @@
     "ctoestreich"
   ],
   "namesOfContributorsNew": [
-    "pitwegner",
-    "raffitamizian",
     "binitan",
     "ajbw",
     "austin5456",
@@ -1580,13 +1578,13 @@
     "pvandervelde",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 471,
+  "numberOfPullRequestNew": 450,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
   "p50SecondsToClosePulls": 6373,
   "p50SecondsToCloseIssues": 449308,
   "meanNumberOfNewPullsPerWeek": 71.0223880597015,
   "meanNumberOfNewContributorsPerWeek": 9.829629629629629,
-  "meanSecondsToClosePulls": 125790.73248407643,
+  "meanSecondsToClosePulls": 121410.14666666667,
   "meanSecondsToCloseIssues": 469937.89743589744
 }
