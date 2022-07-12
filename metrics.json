@@ -1522,6 +1522,8 @@
     "goshlanguage",
     "bchalk101",
     "pvandervelde",
+    "ale-conekta",
+    "HorcruxAshu",
     "ctoestreich"
   ],
   "namesOfContributorsNew": [
@@ -1576,15 +1578,17 @@
     "goshlanguage",
     "bchalk101",
     "pvandervelde",
+    "ale-conekta",
+    "HorcruxAshu",
     "ctoestreich"
   ],
-  "numberOfPullRequestNew": 450,
+  "numberOfPullRequestNew": 469,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 6373,
-  "p50SecondsToCloseIssues": 449308,
-  "meanNumberOfNewPullsPerWeek": 71.0223880597015,
-  "meanNumberOfNewContributorsPerWeek": 9.829629629629629,
-  "meanSecondsToClosePulls": 121410.14666666667,
-  "meanSecondsToCloseIssues": 469937.89743589744
+  "p50SecondsToClosePulls": 5668,
+  "p50SecondsToCloseIssues": 381950,
+  "meanNumberOfNewPullsPerWeek": 70.64444444444445,
+  "meanNumberOfNewContributorsPerWeek": 9.772058823529411,
+  "meanSecondsToClosePulls": 120141.52665245203,
+  "meanSecondsToCloseIssues": 452006.16279069765
 }
