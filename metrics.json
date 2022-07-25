@@ -1110,6 +1110,7 @@
     "JellyBellyDev",
     "df11",
     "fabbazon",
+    "erikprice",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1480,6 +1481,7 @@
     "mustafazeya",
     "pschilli",
     "fabiancook",
+    "goshlanguage",
     "iamansoni",
     "johanneswuerbach",
     "RmMsr",
@@ -1503,7 +1505,6 @@
     "jiriklein",
     "karlhaworth",
     "wayne-thomson-iag",
-    "erikprice",
     "modethirteen",
     "ashu16815",
     "joanayma",
@@ -1540,7 +1541,7 @@
     "damolaobaleke",
     "gioufop",
     "niya-ma-1",
-    "goshlanguage",
+    "natalyapeixoto",
     "bchalk101",
     "kumarnil",
     "pvandervelde",
@@ -1558,7 +1559,6 @@
     "nandhithakamal"
   ],
   "namesOfContributorsNew": [
-    "erikprice",
     "modethirteen",
     "ashu16815",
     "joanayma",
@@ -1595,7 +1595,7 @@
     "damolaobaleke",
     "gioufop",
     "niya-ma-1",
-    "goshlanguage",
+    "natalyapeixoto",
     "bchalk101",
     "kumarnil",
     "pvandervelde",
@@ -1617,8 +1617,8 @@
   "p50NumberOfNewContributorsPerWeek": 10,
   "p50SecondsToClosePulls": 4714,
   "p50SecondsToCloseIssues": 343990,
-  "meanNumberOfNewPullsPerWeek": 71.48529411764706,
-  "meanNumberOfNewContributorsPerWeek": 9.927007299270073,
-  "meanSecondsToClosePulls": 94385.76233183856,
-  "meanSecondsToCloseIssues": 462955.4
+  "meanNumberOfNewPullsPerWeek": 71.5,
+  "meanNumberOfNewContributorsPerWeek": 9.934306569343066,
+  "meanSecondsToClosePulls": 98235.44843049327,
+  "meanSecondsToCloseIssues": 466658.4418604651
 }
