@@ -1565,6 +1565,7 @@
     "liamrathke",
     "jonstacks",
     "iswariyam",
+    "viratalbu1",
     "ale-conekta",
     "dnguyenzd",
     "HorcruxAshu",
@@ -1613,6 +1614,7 @@
     "liamrathke",
     "jonstacks",
     "iswariyam",
+    "viratalbu1",
     "ale-conekta",
     "dnguyenzd",
     "HorcruxAshu",
@@ -1629,13 +1631,13 @@
     "jairhenrique",
     "nandhithakamal"
   ],
-  "numberOfPullRequestNew": 416,
+  "numberOfPullRequestNew": 396,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 4714,
-  "p50SecondsToCloseIssues": 178035,
-  "meanNumberOfNewPullsPerWeek": 71.60583941605839,
-  "meanNumberOfNewContributorsPerWeek": 9.971014492753623,
-  "meanSecondsToClosePulls": 99647.89663461539,
-  "meanSecondsToCloseIssues": 419753.14634146343
+  "p50SecondsToClosePulls": 4746,
+  "p50SecondsToCloseIssues": 166514,
+  "meanNumberOfNewPullsPerWeek": 71.61313868613139,
+  "meanNumberOfNewContributorsPerWeek": 9.978260869565217,
+  "meanSecondsToClosePulls": 93982.31565656565,
+  "meanSecondsToCloseIssues": 389207.125
 }
