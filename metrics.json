@@ -1162,6 +1162,7 @@
     "damolaobaleke",
     "gioufop",
     "niya-ma-1",
+    "jamieklassen",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1475,7 +1476,6 @@
     "adamo57",
     "ankitapandey1106",
     "debuggerpk",
-    "jamieklassen",
     "aarontsharp",
     "dmdeepkp",
     "martinohmann",
@@ -1661,13 +1661,13 @@
     "jairhenrique",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 350,
+  "numberOfPullRequestNew": 340,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 4746,
+  "p50SecondsToClosePulls": 4763,
   "p50SecondsToCloseIssues": 122322,
-  "meanNumberOfNewPullsPerWeek": 71.96428571428571,
+  "meanNumberOfNewPullsPerWeek": 71.98571428571428,
   "meanNumberOfNewContributorsPerWeek": 10.042553191489361,
-  "meanSecondsToClosePulls": 103727.24857142857,
+  "meanSecondsToClosePulls": 101541.25882352941,
   "meanSecondsToCloseIssues": 351451.3714285714
 }
