@@ -1531,6 +1531,7 @@
     "gabrielpasv",
     "tylerd-canva",
     "Kuan-Ying",
+    "masonhuemmer",
     "jeillya-ford",
     "mstelz",
     "ChrisJBurns",
@@ -1610,6 +1611,7 @@
     "waveywaves",
     "feanil",
     "timharris777",
+    "alissonfabiano",
     "johnphilip283",
     "SEETechWolf",
     "hanysf",
@@ -1646,6 +1648,7 @@
     "waveywaves",
     "feanil",
     "timharris777",
+    "alissonfabiano",
     "johnphilip283",
     "SEETechWolf",
     "hanysf",
@@ -1660,13 +1663,13 @@
     "runes83",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 321,
+  "numberOfPullRequestNew": 338,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 4746,
+  "p50SecondsToClosePulls": 5369,
   "p50SecondsToCloseIssues": 122322,
-  "meanNumberOfNewPullsPerWeek": 72.01428571428572,
-  "meanNumberOfNewContributorsPerWeek": 10.056737588652481,
-  "meanSecondsToClosePulls": 97576.26168224298,
-  "meanSecondsToCloseIssues": 299583.17647058825
+  "meanNumberOfNewPullsPerWeek": 71.63829787234043,
+  "meanNumberOfNewContributorsPerWeek": 10,
+  "meanSecondsToClosePulls": 102312.70414201183,
+  "meanSecondsToCloseIssues": 321302.0588235294
 }
