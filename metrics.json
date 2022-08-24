@@ -1539,6 +1539,7 @@
     "imanhua",
     "batidodecoco",
     "18521542",
+    "mikeestrada",
     "cinlysobin",
     "Vrtak-CZ",
     "mustafazeya",
@@ -1663,13 +1664,13 @@
     "runes83",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 338,
+  "numberOfPullRequestNew": 359,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 5369,
+  "p50SecondsToClosePulls": 6247,
   "p50SecondsToCloseIssues": 122322,
-  "meanNumberOfNewPullsPerWeek": 71.63829787234043,
-  "meanNumberOfNewContributorsPerWeek": 10,
-  "meanSecondsToClosePulls": 102312.70414201183,
-  "meanSecondsToCloseIssues": 321302.0588235294
+  "meanNumberOfNewPullsPerWeek": 71.80141843971631,
+  "meanNumberOfNewContributorsPerWeek": 10.007042253521126,
+  "meanSecondsToClosePulls": 111795.05013927577,
+  "meanSecondsToCloseIssues": 319677.5882352941
 }
