@@ -166,7 +166,7 @@
     "[AEB](https://www.aeb.com/)",
     "[SALTO Systems](https://saltosystems.com)",
     "[Lummo](https://lummo.com)",
-    "[Frontside](https://frontside.com)",
+    "[Frontside](https://frontside.com/backstage)",
     "[Stepstone](https://www.stepstone.com/en/)",
     "[idwall](https://idwall.co)",
     "[Jaguar Land Rover](https://www.jaguarlandrover.com)",
@@ -203,7 +203,8 @@
     "[Appfolio](https://appfolio.com)",
     "[isaac](https://isaac.com.br/)",
     "[Paraná Banco](https://site.paranabanco.com.br/)",
-    "[Stone](https://stone.com.br/)"
+    "[Stone](https://stone.com.br/)",
+    "[REI](https://www.rei.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -333,7 +334,7 @@
     "sandro832",
     "morrme",
     "gsemaj",
-    "ZaradarDFDS",
+    "ZaradarTR",
     "ebarriosjr",
     "jaime-talkdesk",
     "twishasaraiya",
@@ -1175,6 +1176,7 @@
     "liamrathke",
     "jonstacks",
     "iswariyam",
+    "viratalbu1",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1609,7 +1611,6 @@
     "jiriklein",
     "karlhaworth",
     "wayne-thomson-iag",
-    "viratalbu1",
     "maff",
     "rannox",
     "ehrnst",
@@ -1643,7 +1644,6 @@
     "rodrigosanntoos"
   ],
   "namesOfContributorsNew": [
-    "viratalbu1",
     "maff",
     "rannox",
     "ehrnst",
@@ -1676,13 +1676,13 @@
     "david-christ",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 366,
+  "numberOfPullRequestNew": 377,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 6201,
+  "p50SecondsToClosePulls": 6587,
   "p50SecondsToCloseIssues": 171990,
-  "meanNumberOfNewPullsPerWeek": 71.87323943661971,
+  "meanNumberOfNewPullsPerWeek": 71.96478873239437,
   "meanNumberOfNewContributorsPerWeek": 10.034965034965035,
-  "meanSecondsToClosePulls": 102747.45901639345,
-  "meanSecondsToCloseIssues": 308023.8387096774
+  "meanSecondsToClosePulls": 108695.0875331565,
+  "meanSecondsToCloseIssues": 315411.23333333334
 }
