@@ -1180,6 +1180,7 @@
     "maff",
     "noisyscanner",
     "rannox",
+    "padupe",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1447,7 +1448,6 @@
     "lqlamTMA",
     "ksdaftari",
     "esphen",
-    "padupe",
     "JarrodJ83",
     "dmeytin",
     "timjnh",
@@ -1689,13 +1689,13 @@
     "aparnakcvs",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 390,
+  "numberOfPullRequestNew": 373,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 7588,
+  "p50SecondsToClosePulls": 8878,
   "p50SecondsToCloseIssues": 210923,
   "meanNumberOfNewPullsPerWeek": 72.41549295774648,
   "meanNumberOfNewContributorsPerWeek": 10.104895104895105,
-  "meanSecondsToClosePulls": 117985.06153846154,
+  "meanSecondsToClosePulls": 114832.3217158177,
   "meanSecondsToCloseIssues": 387429.77777777775
 }
