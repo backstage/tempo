@@ -204,7 +204,8 @@
     "[isaac](https://isaac.com.br/)",
     "[Paraná Banco](https://site.paranabanco.com.br/)",
     "[Stone](https://stone.com.br/)",
-    "[REI](https://www.rei.com/)"
+    "[REI](https://www.rei.com/)",
+    "[next](https://next.me)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1181,6 +1182,7 @@
     "noisyscanner",
     "rannox",
     "padupe",
+    "ehrnst",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1618,7 +1620,6 @@
     "jiriklein",
     "karlhaworth",
     "wayne-thomson-iag",
-    "ehrnst",
     "lborgav",
     "darthaud",
     "sabinasiddiqi",
@@ -1639,6 +1640,7 @@
     "gudmojo",
     "lfialho",
     "timbuchwaldt",
+    "ecrusara",
     "jinnjwu",
     "digogid",
     "kunickiaj",
@@ -1654,7 +1656,6 @@
     "rodrigosanntoos"
   ],
   "namesOfContributorsNew": [
-    "ehrnst",
     "lborgav",
     "darthaud",
     "sabinasiddiqi",
@@ -1675,6 +1676,7 @@
     "gudmojo",
     "lfialho",
     "timbuchwaldt",
+    "ecrusara",
     "jinnjwu",
     "digogid",
     "kunickiaj",
@@ -1689,13 +1691,13 @@
     "aparnakcvs",
     "rodrigosanntoos"
   ],
-  "numberOfPullRequestNew": 373,
+  "numberOfPullRequestNew": 370,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 8878,
-  "p50SecondsToCloseIssues": 210923,
-  "meanNumberOfNewPullsPerWeek": 72.41549295774648,
-  "meanNumberOfNewContributorsPerWeek": 10.104895104895105,
-  "meanSecondsToClosePulls": 114832.3217158177,
-  "meanSecondsToCloseIssues": 387429.77777777775
+  "p50SecondsToClosePulls": 9056,
+  "p50SecondsToCloseIssues": 171990,
+  "meanNumberOfNewPullsPerWeek": 72.43661971830986,
+  "meanNumberOfNewContributorsPerWeek": 10.111888111888112,
+  "meanSecondsToClosePulls": 116025.13513513513,
+  "meanSecondsToCloseIssues": 371320.6666666667
 }
