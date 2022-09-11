@@ -1190,6 +1190,7 @@
     "TeoJJss",
     "Apaachai",
     "brucearctor",
+    "waveywaves",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1583,6 +1584,7 @@
     "goshlanguage",
     "bchalk101",
     "kumarnil",
+    "sangeethdba",
     "pvandervelde",
     "ale-conekta",
     "dnguyenzd",
@@ -1632,7 +1634,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "rodrigosanntoos",
-    "waveywaves",
     "feanil",
     "timharris777",
     "alissonfabiano",
@@ -1669,7 +1670,6 @@
     "leonardomaier"
   ],
   "namesOfContributorsNew": [
-    "waveywaves",
     "feanil",
     "timharris777",
     "alissonfabiano",
@@ -1705,13 +1705,13 @@
     "kumar385",
     "leonardomaier"
   ],
-  "numberOfPullRequestNew": 371,
+  "numberOfPullRequestNew": 356,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 15978,
+  "p50SecondsToClosePulls": 16038,
   "p50SecondsToCloseIssues": 263456,
-  "meanNumberOfNewPullsPerWeek": 72.46153846153847,
-  "meanNumberOfNewContributorsPerWeek": 10.125,
-  "meanSecondsToClosePulls": 128039.10242587602,
+  "meanNumberOfNewPullsPerWeek": 72.46853146853147,
+  "meanNumberOfNewContributorsPerWeek": 10.131944444444445,
+  "meanSecondsToClosePulls": 129099.48876404495,
   "meanSecondsToCloseIssues": 352607
 }
