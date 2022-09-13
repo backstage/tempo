@@ -206,7 +206,8 @@
     "[Stone](https://stone.com.br/)",
     "[REI](https://www.rei.com/)",
     "[next](https://next.me)",
-    "[Vipps](https://vipps.no)"
+    "[Vipps](https://vipps.no)",
+    "[Ferrovial](https://ferrovial.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1184,6 +1185,7 @@
     "rannox",
     "padupe",
     "ehrnst",
+    "tunkl",
     "lborgav",
     "darthaud",
     "sabinasiddiqi",
@@ -1655,6 +1657,8 @@
     "maaheeb",
     "jrwpatterson",
     "wesley-pattison",
+    "khatharsiss",
+    "mumuryllo",
     "kunickiaj",
     "ghelyar",
     "asaf-erlich",
@@ -1690,6 +1694,8 @@
     "maaheeb",
     "jrwpatterson",
     "wesley-pattison",
+    "khatharsiss",
+    "mumuryllo",
     "kunickiaj",
     "ghelyar",
     "asaf-erlich",
@@ -1705,13 +1711,13 @@
     "kumar385",
     "leonardomaier"
   ],
-  "numberOfPullRequestNew": 350,
+  "numberOfPullRequestNew": 355,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 16292,
+  "p50SecondsToClosePulls": 17325,
   "p50SecondsToCloseIssues": 263456,
-  "meanNumberOfNewPullsPerWeek": 72.4895104895105,
-  "meanNumberOfNewContributorsPerWeek": 10.13888888888889,
-  "meanSecondsToClosePulls": 124102.70571428571,
+  "meanNumberOfNewPullsPerWeek": 72.03472222222223,
+  "meanNumberOfNewContributorsPerWeek": 10.089655172413794,
+  "meanSecondsToClosePulls": 124069.4,
   "meanSecondsToCloseIssues": 353563.03225806454
 }
