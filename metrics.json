@@ -1571,6 +1571,7 @@
     "Kuan-Ying",
     "masonhuemmer",
     "jeillya-ford",
+    "mustafa89",
     "mstelz",
     "ChrisJBurns",
     "siddharth159",
@@ -1646,6 +1647,7 @@
     "ericbottard",
     "Parsifal-M",
     "lsiric",
+    "airavichandra",
     "gudmojo",
     "lfialho",
     "timbuchwaldt",
@@ -1683,6 +1685,7 @@
     "ericbottard",
     "Parsifal-M",
     "lsiric",
+    "airavichandra",
     "gudmojo",
     "lfialho",
     "timbuchwaldt",
@@ -1711,13 +1714,13 @@
     "kumar385",
     "leonardomaier"
   ],
-  "numberOfPullRequestNew": 355,
+  "numberOfPullRequestNew": 359,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 17325,
+  "p50SecondsToClosePulls": 18683,
   "p50SecondsToCloseIssues": 263456,
-  "meanNumberOfNewPullsPerWeek": 72.03472222222223,
-  "meanNumberOfNewContributorsPerWeek": 10.089655172413794,
-  "meanSecondsToClosePulls": 124069.4,
-  "meanSecondsToCloseIssues": 353563.03225806454
+  "meanNumberOfNewPullsPerWeek": 72.09722222222223,
+  "meanNumberOfNewContributorsPerWeek": 10.10344827586207,
+  "meanSecondsToClosePulls": 144829.49582172703,
+  "meanSecondsToCloseIssues": 353990.25
 }
