@@ -1204,8 +1204,8 @@
     "ericbottard",
     "Parsifal-M",
     "lsiric",
-    "airavichandra",
     "gudmojo",
+    "lfialho",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1665,7 +1665,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "rodrigosanntoos",
-    "lfialho",
     "timbuchwaldt",
     "ecrusara",
     "phaakmat",
@@ -1699,7 +1698,6 @@
     "dhfherna"
   ],
   "namesOfContributorsNew": [
-    "lfialho",
     "timbuchwaldt",
     "ecrusara",
     "phaakmat",
@@ -1732,13 +1730,13 @@
     "vitokodev",
     "dhfherna"
   ],
-  "numberOfPullRequestNew": 293,
+  "numberOfPullRequestNew": 276,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 38607,
-  "p50SecondsToCloseIssues": 343464,
+  "p50SecondsToClosePulls": 39083,
+  "p50SecondsToCloseIssues": 349372,
   "meanNumberOfNewPullsPerWeek": 72.42068965517241,
-  "meanNumberOfNewContributorsPerWeek": 10.184931506849315,
-  "meanSecondsToClosePulls": 198466.9829351536,
-  "meanSecondsToCloseIssues": 396802.53571428574
+  "meanNumberOfNewContributorsPerWeek": 10.178082191780822,
+  "meanSecondsToClosePulls": 195279.1268115942,
+  "meanSecondsToCloseIssues": 401741.2962962963
 }
