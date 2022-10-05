@@ -1701,6 +1701,7 @@
     "stiyyagura0901",
     "spencerrichardhenry",
     "AlexBecerra1144",
+    "Ahampa07",
     "jizusun",
     "sploschee",
     "nhhagen",
@@ -1744,6 +1745,7 @@
     "stiyyagura0901",
     "spencerrichardhenry",
     "AlexBecerra1144",
+    "Ahampa07",
     "jizusun",
     "sploschee",
     "nhhagen",
@@ -1770,13 +1772,13 @@
     "jiawenh1",
     "dhfherna"
   ],
-  "numberOfPullRequestNew": 290,
+  "numberOfPullRequestNew": 303,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 59628,
-  "p50SecondsToCloseIssues": 336446,
-  "meanNumberOfNewPullsPerWeek": 72.20408163265306,
-  "meanNumberOfNewContributorsPerWeek": 10.236486486486486,
-  "meanSecondsToClosePulls": 238081.9172413793,
-  "meanSecondsToCloseIssues": 425480.48148148146
+  "p50SecondsToClosePulls": 62473,
+  "p50SecondsToCloseIssues": 342661,
+  "meanNumberOfNewPullsPerWeek": 72.3265306122449,
+  "meanNumberOfNewContributorsPerWeek": 10.243243243243244,
+  "meanSecondsToClosePulls": 243689.9801980198,
+  "meanSecondsToCloseIssues": 512059.875
 }
