@@ -1626,6 +1626,7 @@
     "SainDave",
     "ale-conekta",
     "dnguyenzd",
+    "IanTurtle",
     "HorcruxAshu",
     "joshua-reddish",
     "anuhyav08",
@@ -1664,6 +1665,7 @@
     "theute",
     "kumar385",
     "unixunion",
+    "leonardomaier",
     "iamansoni",
     "johanneswuerbach",
     "jairhenrique",
@@ -1690,7 +1692,6 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "rodrigosanntoos",
-    "leonardomaier",
     "jrwpatterson",
     "Abhay-soni-developer",
     "itsEto",
@@ -1734,7 +1735,6 @@
     "dhfherna"
   ],
   "namesOfContributorsNew": [
-    "leonardomaier",
     "jrwpatterson",
     "Abhay-soni-developer",
     "itsEto",
@@ -1780,10 +1780,10 @@
   "numberOfPullRequestNew": 285,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 65897,
-  "p50SecondsToCloseIssues": 336446,
-  "meanNumberOfNewPullsPerWeek": 72.42857142857143,
-  "meanNumberOfNewContributorsPerWeek": 10.277027027027026,
-  "meanSecondsToClosePulls": 263486.5298245614,
-  "meanSecondsToCloseIssues": 445516.8
+  "p50SecondsToClosePulls": 62867,
+  "p50SecondsToCloseIssues": 342661,
+  "meanNumberOfNewPullsPerWeek": 72.51700680272108,
+  "meanNumberOfNewContributorsPerWeek": 10.283783783783784,
+  "meanSecondsToClosePulls": 245738.7894736842,
+  "meanSecondsToCloseIssues": 530385.6285714286
 }
