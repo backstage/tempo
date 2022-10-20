@@ -249,6 +249,7 @@
     "robzor92",
     "jaklan",
     "natcl",
+    "SoumayaMauthoorMOJ",
     "stefanalund",
     "jeffersongirao",
     "Rugvip",
@@ -1234,6 +1235,7 @@
     "Ahampa07",
     "jizusun",
     "sploschee",
+    "nhhagen",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1671,6 +1673,7 @@
     "mohammadsrahman",
     "jinnjwu",
     "digogid",
+    "bittrance",
     "kunickiaj",
     "ghelyar",
     "asaf-erlich",
@@ -1688,7 +1691,6 @@
     "unixunion",
     "pedronastasi",
     "alper98",
-    "nhhagen",
     "miniengineer",
     "mthidell",
     "iamansoni",
@@ -1717,7 +1719,7 @@
     "karlhaworth",
     "wayne-thomson-iag",
     "rodrigosanntoos",
-    "SoumayaMauthoorMOJ",
+    "dhfherna",
     "tusharxoxoxo",
     "mitchhentgesspotify",
     "iress-willygo",
@@ -1755,11 +1757,9 @@
     "klubi",
     "divideby0",
     "mheidal-dataminr",
-    "MikeSamv",
-    "dhfherna"
+    "MikeSamv"
   ],
   "namesOfContributorsNew": [
-    "SoumayaMauthoorMOJ",
     "tusharxoxoxo",
     "mitchhentgesspotify",
     "iress-willygo",
@@ -1797,16 +1797,15 @@
     "klubi",
     "divideby0",
     "mheidal-dataminr",
-    "MikeSamv",
-    "dhfherna"
+    "MikeSamv"
   ],
-  "numberOfPullRequestNew": 311,
+  "numberOfPullRequestNew": 320,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 10,
-  "p50SecondsToClosePulls": 54339,
-  "p50SecondsToCloseIssues": 275503,
-  "meanNumberOfNewPullsPerWeek": 72.33557046979865,
-  "meanNumberOfNewContributorsPerWeek": 10.3,
-  "meanSecondsToClosePulls": 205997.23794212218,
-  "meanSecondsToCloseIssues": 483144.6052631579
+  "p50SecondsToClosePulls": 55291,
+  "p50SecondsToCloseIssues": 264895,
+  "meanNumberOfNewPullsPerWeek": 72.52348993288591,
+  "meanNumberOfNewContributorsPerWeek": 10.306666666666667,
+  "meanSecondsToClosePulls": 210877.45,
+  "meanSecondsToCloseIssues": 420140.44444444444
 }
