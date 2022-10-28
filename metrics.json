@@ -1222,6 +1222,7 @@
     "maaheeb",
     "jrwpatterson",
     "Abhay-soni-developer",
+    "itsEto",
     "tomas-mota",
     "wesley-pattison",
     "khatharsiss",
@@ -1837,13 +1838,13 @@
     "AhsanAtIkea",
     "max-bojorquez"
   ],
-  "numberOfPullRequestNew": 333,
+  "numberOfPullRequestNew": 320,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 55430,
+  "p50SecondsToClosePulls": 54339,
   "p50SecondsToCloseIssues": 412440,
-  "meanNumberOfNewPullsPerWeek": 72.68,
-  "meanNumberOfNewContributorsPerWeek": 10.403973509933774,
-  "meanSecondsToClosePulls": 212159.37837837837,
+  "meanNumberOfNewPullsPerWeek": 72.7,
+  "meanNumberOfNewContributorsPerWeek": 10.410596026490067,
+  "meanSecondsToClosePulls": 209890.240625,
   "meanSecondsToCloseIssues": 495958
 }
