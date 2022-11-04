@@ -1777,6 +1777,7 @@
     "Saikatssd",
     "Rutam21",
     "cctechwiz",
+    "JSPRH",
     "MatthewJamesBoyle",
     "swerdick",
     "vorbrodt",
@@ -1801,6 +1802,8 @@
     "AhsanAtIkea",
     "jerith",
     "antoniordz96",
+    "Nitinvonage",
+    "gocapa",
     "max-bojorquez"
   ],
   "namesOfContributorsNew": [
@@ -1829,6 +1832,7 @@
     "Saikatssd",
     "Rutam21",
     "cctechwiz",
+    "JSPRH",
     "MatthewJamesBoyle",
     "swerdick",
     "vorbrodt",
@@ -1853,15 +1857,17 @@
     "AhsanAtIkea",
     "jerith",
     "antoniordz96",
+    "Nitinvonage",
+    "gocapa",
     "max-bojorquez"
   ],
-  "numberOfPullRequestNew": 267,
+  "numberOfPullRequestNew": 279,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 55430,
-  "p50SecondsToCloseIssues": 412440,
-  "meanNumberOfNewPullsPerWeek": 72.43046357615894,
-  "meanNumberOfNewContributorsPerWeek": 10.447368421052632,
-  "meanSecondsToClosePulls": 236170.6329588015,
-  "meanSecondsToCloseIssues": 430671.4054054054
+  "p50SecondsToClosePulls": 58337,
+  "p50SecondsToCloseIssues": 240512,
+  "meanNumberOfNewPullsPerWeek": 72.58278145695364,
+  "meanNumberOfNewContributorsPerWeek": 10.467105263157896,
+  "meanSecondsToClosePulls": 248828.00716845877,
+  "meanSecondsToCloseIssues": 422984.94444444444
 }
