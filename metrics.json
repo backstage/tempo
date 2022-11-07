@@ -1259,6 +1259,9 @@
     "axisofentropy",
     "martincostello",
     "gavlyukovskiy",
+    "worldtiki",
+    "angathorion",
+    "marcofaggian",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1755,9 +1758,6 @@
     "wayne-thomson-iag",
     "rodrigosanntoos",
     "dhfherna",
-    "worldtiki",
-    "angathorion",
-    "marcofaggian",
     "dmitry-lobanov",
     "willyguggenheim",
     "atoko",
@@ -1809,9 +1809,6 @@
     "max-bojorquez"
   ],
   "namesOfContributorsNew": [
-    "worldtiki",
-    "angathorion",
-    "marcofaggian",
     "dmitry-lobanov",
     "willyguggenheim",
     "atoko",
@@ -1862,13 +1859,13 @@
     "gocapa",
     "max-bojorquez"
   ],
-  "numberOfPullRequestNew": 275,
+  "numberOfPullRequestNew": 262,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 54236,
+  "p50SecondsToClosePulls": 53571,
   "p50SecondsToCloseIssues": 240512,
-  "meanNumberOfNewPullsPerWeek": 72.62251655629139,
+  "meanNumberOfNewPullsPerWeek": 72.71523178807946,
   "meanNumberOfNewContributorsPerWeek": 10.480263157894736,
-  "meanSecondsToClosePulls": 244676.6509090909,
-  "meanSecondsToCloseIssues": 414572.14285714284
+  "meanSecondsToClosePulls": 236107.62213740457,
+  "meanSecondsToCloseIssues": 402193.48484848486
 }
