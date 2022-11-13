@@ -1275,6 +1275,7 @@
     "rpahli",
     "dotboris",
     "STLVRTX",
+    "jgrumboe",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1773,7 +1774,6 @@
     "wayne-thomson-iag",
     "rodrigosanntoos",
     "dhfherna",
-    "jgrumboe",
     "eltonwelsch",
     "auchynnikau",
     "ShayNehmad-RecoLabs",
@@ -1825,10 +1825,10 @@
     "Nitinvonage",
     "gocapa",
     "mmacdonald86",
+    "aspic",
     "max-bojorquez"
   ],
   "namesOfContributorsNew": [
-    "jgrumboe",
     "eltonwelsch",
     "auchynnikau",
     "ShayNehmad-RecoLabs",
@@ -1880,15 +1880,16 @@
     "Nitinvonage",
     "gocapa",
     "mmacdonald86",
+    "aspic",
     "max-bojorquez"
   ],
-  "numberOfPullRequestNew": 302,
+  "numberOfPullRequestNew": 293,
   "p50NumberOfNewPullsPerWeek": 72,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 44170,
-  "p50SecondsToCloseIssues": 110376,
+  "p50SecondsToClosePulls": 43076,
+  "p50SecondsToCloseIssues": 125997,
   "meanNumberOfNewPullsPerWeek": 72.88157894736842,
-  "meanNumberOfNewContributorsPerWeek": 10.522875816993464,
-  "meanSecondsToClosePulls": 209487.37086092716,
-  "meanSecondsToCloseIssues": 360295.71794871794
+  "meanNumberOfNewContributorsPerWeek": 10.529411764705882,
+  "meanSecondsToClosePulls": 198414.74744027303,
+  "meanSecondsToCloseIssues": 369394.4358974359
 }
