@@ -1883,6 +1883,7 @@
     "GVelnicu",
     "laxmaneppalagudem",
     "hpeters83",
+    "sakorkko",
     "jethers",
     "jef"
   ],
@@ -1928,16 +1929,17 @@
     "GVelnicu",
     "laxmaneppalagudem",
     "hpeters83",
+    "sakorkko",
     "jethers",
     "jef"
   ],
-  "numberOfPullRequestNew": 382,
+  "numberOfPullRequestNew": 399,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 21311,
-  "p50SecondsToCloseIssues": 171472,
-  "meanNumberOfNewPullsPerWeek": 73.71612903225807,
-  "meanNumberOfNewContributorsPerWeek": 10.679487179487179,
-  "meanSecondsToClosePulls": 154388.76963350785,
-  "meanSecondsToCloseIssues": 379645.15789473685
+  "p50SecondsToClosePulls": 21527,
+  "p50SecondsToCloseIssues": 229766,
+  "meanNumberOfNewPullsPerWeek": 73.35897435897436,
+  "meanNumberOfNewContributorsPerWeek": 10.617834394904458,
+  "meanSecondsToClosePulls": 158769.27819548873,
+  "meanSecondsToCloseIssues": 396365.641025641
 }
