@@ -1250,6 +1250,7 @@
     "tusharxoxoxo",
     "mitchhentgesspotify",
     "pedronastasi",
+    "howlowck",
     "Borchies",
     "klaraward",
     "iress-willygo",
@@ -1873,6 +1874,7 @@
     "amritpalnagrame",
     "lucahuettner",
     "jmezach",
+    "deepan10",
     "mmacdonald86",
     "benkeil",
     "aspic",
@@ -1885,7 +1887,9 @@
     "hpeters83",
     "sakorkko",
     "jethers",
-    "jef"
+    "jef",
+    "threesquared",
+    "tumido"
   ],
   "namesOfContributorsNew": [
     "carlreid",
@@ -1919,6 +1923,7 @@
     "amritpalnagrame",
     "lucahuettner",
     "jmezach",
+    "deepan10",
     "mmacdonald86",
     "benkeil",
     "aspic",
@@ -1931,15 +1936,17 @@
     "hpeters83",
     "sakorkko",
     "jethers",
-    "jef"
+    "jef",
+    "threesquared",
+    "tumido"
   ],
-  "numberOfPullRequestNew": 399,
+  "numberOfPullRequestNew": 404,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 21527,
-  "p50SecondsToCloseIssues": 229766,
-  "meanNumberOfNewPullsPerWeek": 73.35897435897436,
-  "meanNumberOfNewContributorsPerWeek": 10.617834394904458,
-  "meanSecondsToClosePulls": 158769.27819548873,
-  "meanSecondsToCloseIssues": 396365.641025641
+  "p50SecondsToClosePulls": 21980,
+  "p50SecondsToCloseIssues": 171472,
+  "meanNumberOfNewPullsPerWeek": 73.46153846153847,
+  "meanNumberOfNewContributorsPerWeek": 10.643312101910828,
+  "meanSecondsToClosePulls": 162867.26485148515,
+  "meanSecondsToCloseIssues": 387469.1
 }
