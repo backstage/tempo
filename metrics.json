@@ -216,7 +216,8 @@
     "[Trifork](https://trifork.com)",
     "[MSCI](http://msci.com)",
     "[ESW](https://esw.com)",
-    "[FanDuel](https://fanduel.com)"
+    "[FanDuel](https://fanduel.com)",
+    "[Affinidi](https://affinidi.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1323,6 +1324,8 @@
     "chahatd",
     "thake",
     "brunokino",
+    "muhammadnmuhammad01",
+    "maxm0rt",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1856,8 +1859,6 @@
     "dhfherna",
     "max-bojorquez",
     "carlreid",
-    "muhammadnmuhammad01",
-    "maxm0rt",
     "stephenburrows22",
     "ecw1973",
     "hydiar",
@@ -1885,6 +1886,7 @@
     "deepan10",
     "dawitam11",
     "GTB3NW",
+    "idestis",
     "sandeepa-kv-jois",
     "marcinguy",
     "Jeff-Tian",
@@ -1911,8 +1913,6 @@
   ],
   "namesOfContributorsNew": [
     "carlreid",
-    "muhammadnmuhammad01",
-    "maxm0rt",
     "stephenburrows22",
     "ecw1973",
     "hydiar",
@@ -1940,6 +1940,7 @@
     "deepan10",
     "dawitam11",
     "GTB3NW",
+    "idestis",
     "sandeepa-kv-jois",
     "marcinguy",
     "Jeff-Tian",
@@ -1964,13 +1965,13 @@
     "JoshuaJackson-jobvite",
     "miki725"
   ],
-  "numberOfPullRequestNew": 395,
+  "numberOfPullRequestNew": 384,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 21311,
+  "p50SecondsToClosePulls": 19282,
   "p50SecondsToCloseIssues": 156453,
-  "meanNumberOfNewPullsPerWeek": 73.91666666666667,
-  "meanNumberOfNewContributorsPerWeek": 10.757961783439491,
-  "meanSecondsToClosePulls": 150323.62784810126,
+  "meanNumberOfNewPullsPerWeek": 73.92948717948718,
+  "meanNumberOfNewContributorsPerWeek": 10.764331210191083,
+  "meanSecondsToClosePulls": 146512.9921875,
   "meanSecondsToCloseIssues": 380993.7
 }
