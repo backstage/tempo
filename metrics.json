@@ -1999,13 +1999,13 @@
     "froblesmartin",
     "miki725"
   ],
-  "numberOfPullRequestNew": 398,
+  "numberOfPullRequestNew": 399,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 42813,
+  "p50SecondsToClosePulls": 42836,
   "p50SecondsToCloseIssues": 114986,
-  "meanNumberOfNewPullsPerWeek": 74.53164556962025,
+  "meanNumberOfNewPullsPerWeek": 74.54430379746836,
   "meanNumberOfNewContributorsPerWeek": 10.855345911949685,
-  "meanSecondsToClosePulls": 187940.08291457288,
+  "meanSecondsToClosePulls": 191346.90225563908,
   "meanSecondsToCloseIssues": 306704.54545454547
 }
