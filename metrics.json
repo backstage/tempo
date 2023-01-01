@@ -2008,13 +2008,13 @@
     "BredSt",
     "miki725"
   ],
-  "numberOfPullRequestNew": 375,
+  "numberOfPullRequestNew": 362,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 58937,
+  "p50SecondsToClosePulls": 59460,
   "p50SecondsToCloseIssues": 110860,
-  "meanNumberOfNewPullsPerWeek": 74.84177215189874,
+  "meanNumberOfNewPullsPerWeek": 74.84810126582279,
   "meanNumberOfNewContributorsPerWeek": 10.91194968553459,
-  "meanSecondsToClosePulls": 219269.49866666668,
+  "meanSecondsToClosePulls": 218157.88950276244,
   "meanSecondsToCloseIssues": 363936.5
 }
