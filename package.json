@@ -19,7 +19,7 @@
     "@types/remarkable": "^2.0.3",
     "cli-spinner": "^0.2.10",
     "lodash.mean": "^4.1.0",
-    "luxon": "^2.3.1",
+    "luxon": "^2.5.2",
     "minimist": "^1.2.6",
     "node-fetch": "^2.0.0",
     "percentile": "^1.6.0",
