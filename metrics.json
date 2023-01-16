@@ -1921,6 +1921,7 @@
     "drodil",
     "soaand01",
     "marianheinsen",
+    "vonjones",
     "iamansoni",
     "johanneswuerbach",
     "jairhenrique",
@@ -1972,7 +1973,6 @@
     "ftonato",
     "drewboswell",
     "diggyk",
-    "vonjones",
     "ankit-arora-369",
     "zinizhu",
     "dhoizner",
@@ -1984,6 +1984,7 @@
     "cstuart-sqsp",
     "alexjia823",
     "Silthus",
+    "Mercanuis",
     "milanmayr",
     "spasche"
   ],
@@ -2003,7 +2004,6 @@
     "ftonato",
     "drewboswell",
     "diggyk",
-    "vonjones",
     "ankit-arora-369",
     "zinizhu",
     "dhoizner",
@@ -2015,16 +2015,17 @@
     "cstuart-sqsp",
     "alexjia823",
     "Silthus",
+    "Mercanuis",
     "milanmayr",
     "spasche"
   ],
-  "numberOfPullRequestNew": 324,
+  "numberOfPullRequestNew": 305,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
   "p50SecondsToClosePulls": 34390,
   "p50SecondsToCloseIssues": 232712,
   "meanNumberOfNewPullsPerWeek": 74.73291925465838,
-  "meanNumberOfNewContributorsPerWeek": 10.876543209876543,
-  "meanSecondsToClosePulls": 176028.21913580247,
-  "meanSecondsToCloseIssues": 396151.6
+  "meanNumberOfNewContributorsPerWeek": 10.882716049382717,
+  "meanSecondsToClosePulls": 175622.34098360655,
+  "meanSecondsToCloseIssues": 334085.4666666667
 }
