@@ -1331,6 +1331,7 @@
     "chahatd",
     "thake",
     "brunokino",
+    "RubenV-dev",
     "muhammadnmuhammad01",
     "jpdeburgo",
     "maxm0rt",
@@ -1993,6 +1994,8 @@
     "Silthus",
     "cakeinpanic",
     "Mercanuis",
+    "jmadureira",
+    "memarino92",
     "milanmayr",
     "spasche"
   ],
@@ -2029,16 +2032,18 @@
     "Silthus",
     "cakeinpanic",
     "Mercanuis",
+    "jmadureira",
+    "memarino92",
     "milanmayr",
     "spasche"
   ],
-  "numberOfPullRequestNew": 339,
+  "numberOfPullRequestNew": 350,
   "p50NumberOfNewPullsPerWeek": 73,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 45132,
+  "p50SecondsToClosePulls": 43005,
   "p50SecondsToCloseIssues": 232712,
-  "meanNumberOfNewPullsPerWeek": 74.49382716049382,
-  "meanNumberOfNewContributorsPerWeek": 10.858895705521473,
-  "meanSecondsToClosePulls": 182693.2831858407,
-  "meanSecondsToCloseIssues": 315464.9411764706
+  "meanNumberOfNewPullsPerWeek": 74.61728395061728,
+  "meanNumberOfNewContributorsPerWeek": 10.877300613496933,
+  "meanSecondsToClosePulls": 184922.66,
+  "meanSecondsToCloseIssues": 310190.4736842105
 }
