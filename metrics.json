@@ -2071,13 +2071,13 @@
     "milanmayr",
     "chrisaq"
   ],
-  "numberOfPullRequestNew": 366,
+  "numberOfPullRequestNew": 363,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 30376,
+  "p50SecondsToClosePulls": 27579,
   "p50SecondsToCloseIssues": 328388,
-  "meanNumberOfNewPullsPerWeek": 75.06134969325153,
+  "meanNumberOfNewPullsPerWeek": 75.07361963190183,
   "meanNumberOfNewContributorsPerWeek": 10.96951219512195,
-  "meanSecondsToClosePulls": 169070.46174863388,
-  "meanSecondsToCloseIssues": 418026.45238095237
+  "meanSecondsToClosePulls": 168215.73278236916,
+  "meanSecondsToCloseIssues": 419144.8048780488
 }
