@@ -1947,6 +1947,7 @@
     "dhoizner",
     "AndreasPrang",
     "jrummler",
+    "BeneStem",
     "vincent-pli",
     "goodryanboy",
     "gaurav517",
@@ -1957,6 +1958,7 @@
     "Evgenus",
     "dmaljovec",
     "kenny-chow-my",
+    "marct83",
     "thpham",
     "victorradael",
     "nandhithakamal",
@@ -2098,13 +2100,13 @@
     "milanmayr",
     "chrisaq"
   ],
-  "numberOfPullRequestNew": 407,
+  "numberOfPullRequestNew": 404,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 31159,
-  "p50SecondsToCloseIssues": 305692,
-  "meanNumberOfNewPullsPerWeek": 74.96341463414635,
-  "meanNumberOfNewContributorsPerWeek": 10.993939393939394,
-  "meanSecondsToClosePulls": 182013.77395577397,
-  "meanSecondsToCloseIssues": 439441.5882352941
+  "p50SecondsToClosePulls": 40248,
+  "p50SecondsToCloseIssues": 271540,
+  "meanNumberOfNewPullsPerWeek": 75.10365853658537,
+  "meanNumberOfNewContributorsPerWeek": 11.006060606060606,
+  "meanSecondsToClosePulls": 183505.0099009901,
+  "meanSecondsToCloseIssues": 430994.42307692306
 }
