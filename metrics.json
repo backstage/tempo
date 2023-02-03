@@ -2021,6 +2021,7 @@
     "matt-200",
     "LightningStairs",
     "sang-w0o",
+    "MitchWijt",
     "mbenson",
     "lloydchang",
     "cstuart-sqsp",
@@ -2077,6 +2078,7 @@
     "matt-200",
     "LightningStairs",
     "sang-w0o",
+    "MitchWijt",
     "mbenson",
     "lloydchang",
     "cstuart-sqsp",
@@ -2100,13 +2102,13 @@
     "milanmayr",
     "chrisaq"
   ],
-  "numberOfPullRequestNew": 404,
+  "numberOfPullRequestNew": 399,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 40248,
+  "p50SecondsToClosePulls": 35527,
   "p50SecondsToCloseIssues": 271540,
-  "meanNumberOfNewPullsPerWeek": 75.10365853658537,
-  "meanNumberOfNewContributorsPerWeek": 11.006060606060606,
-  "meanSecondsToClosePulls": 183505.0099009901,
-  "meanSecondsToCloseIssues": 430994.42307692306
+  "meanNumberOfNewPullsPerWeek": 75.14024390243902,
+  "meanNumberOfNewContributorsPerWeek": 11.012121212121212,
+  "meanSecondsToClosePulls": 181165.04010025063,
+  "meanSecondsToCloseIssues": 460554.9830508475
 }
