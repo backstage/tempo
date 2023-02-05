@@ -1964,6 +1964,7 @@
     "thpham",
     "victorradael",
     "nandhithakamal",
+    "milanmayr",
     "b-mad",
     "bcotton",
     "coryallegory",
@@ -2044,7 +2045,6 @@
     "micnncim",
     "kamenskiyyyy",
     "jaeeunl",
-    "milanmayr",
     "chrisaq"
   ],
   "namesOfContributorsNew": [
@@ -2101,16 +2101,15 @@
     "micnncim",
     "kamenskiyyyy",
     "jaeeunl",
-    "milanmayr",
     "chrisaq"
   ],
-  "numberOfPullRequestNew": 379,
+  "numberOfPullRequestNew": 354,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 45502,
+  "p50SecondsToClosePulls": 45801,
   "p50SecondsToCloseIssues": 248676,
   "meanNumberOfNewPullsPerWeek": 75.20731707317073,
   "meanNumberOfNewContributorsPerWeek": 11.024242424242424,
-  "meanSecondsToClosePulls": 176344.56992084434,
-  "meanSecondsToCloseIssues": 472020.1929824561
+  "meanSecondsToClosePulls": 172485.6327683616,
+  "meanSecondsToCloseIssues": 467334.54545454547
 }
