@@ -1421,6 +1421,7 @@
     "diggyk",
     "alphahw",
     "mohlek",
+    "9427kk",
     "stuart897",
     "fire",
     "tomByrer",
@@ -1958,6 +1959,7 @@
     "ci-monk",
     "Ryang20718",
     "ruieloi",
+    "alexandrepesant",
     "amirkkn",
     "soaand01",
     "marianheinsen",
@@ -2016,7 +2018,6 @@
     "chrisaq",
     "BredSt",
     "miki725",
-    "9427kk",
     "niallthomson",
     "pagman77",
     "BartoszBlizniak",
@@ -2078,7 +2079,6 @@
     "pfuhrmann"
   ],
   "namesOfContributorsNew": [
-    "9427kk",
     "niallthomson",
     "pagman77",
     "BartoszBlizniak",
@@ -2139,13 +2139,13 @@
     "SamoKopecky",
     "pfuhrmann"
   ],
-  "numberOfPullRequestNew": 394,
+  "numberOfPullRequestNew": 391,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 46175,
-  "p50SecondsToCloseIssues": 244430,
-  "meanNumberOfNewPullsPerWeek": 75.2710843373494,
-  "meanNumberOfNewContributorsPerWeek": 11.071856287425149,
-  "meanSecondsToClosePulls": 216051.6421319797,
-  "meanSecondsToCloseIssues": 384640.06382978725
+  "p50SecondsToClosePulls": 50874,
+  "p50SecondsToCloseIssues": 305692,
+  "meanNumberOfNewPullsPerWeek": 75.36746987951807,
+  "meanNumberOfNewContributorsPerWeek": 11.077844311377245,
+  "meanSecondsToClosePulls": 213470.89514066497,
+  "meanSecondsToCloseIssues": 431753.5106382979
 }
