@@ -227,7 +227,8 @@
     "[Cazoo](https://www.cazoo.co.uk/)",
     "[Gumtree](https://www.gumtree.com.au)",
     "[N26](https://n26.com)",
-    "[The LEGO Group](https://www.lego.com)"
+    "[The LEGO Group](https://www.lego.com)",
+    "[CORS.gmbh](https://www.cors.gmbh)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1464,6 +1465,7 @@
     "KatharinaSick",
     "LauraMoraB",
     "hsbacot",
+    "meriksson1991",
     "stuart897",
     "fire",
     "tomByrer",
@@ -2038,6 +2040,7 @@
     "TalZiv",
     "mohBobo",
     "yesmanmx",
+    "schultzp2020",
     "yogini-nemade",
     "LucasDivino",
     "tillepille",
@@ -2083,7 +2086,6 @@
     "pfuhrmann",
     "BredSt",
     "miki725",
-    "meriksson1991",
     "marcobjorge",
     "pallamidessi",
     "Ma11hewThomas",
@@ -2128,11 +2130,11 @@
     "srisek",
     "ksurendra",
     "anantharamakrishnans",
+    "giocolas",
     "abkura",
     "ffrevol"
   ],
   "namesOfContributorsNew": [
-    "meriksson1991",
     "marcobjorge",
     "pallamidessi",
     "Ma11hewThomas",
@@ -2177,16 +2179,17 @@
     "srisek",
     "ksurendra",
     "anantharamakrishnans",
+    "giocolas",
     "abkura",
     "ffrevol"
   ],
-  "numberOfPullRequestNew": 356,
+  "numberOfPullRequestNew": 352,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 54203,
-  "p50SecondsToCloseIssues": 330504,
-  "meanNumberOfNewPullsPerWeek": 75.79881656804734,
-  "meanNumberOfNewContributorsPerWeek": 11.176470588235293,
-  "meanSecondsToClosePulls": 222409.2415730337,
-  "meanSecondsToCloseIssues": 468273.2191780822
+  "p50SecondsToClosePulls": 58811,
+  "p50SecondsToCloseIssues": 274759,
+  "meanNumberOfNewPullsPerWeek": 75.87573964497041,
+  "meanNumberOfNewContributorsPerWeek": 11.188235294117646,
+  "meanSecondsToClosePulls": 229361.51136363635,
+  "meanSecondsToCloseIssues": 434652.0294117647
 }
