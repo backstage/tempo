@@ -1470,6 +1470,7 @@
     "dhoizner",
     "Silthus",
     "Ma11hewThomas",
+    "nikolaik",
     "stuart897",
     "fire",
     "tomByrer",
@@ -2083,7 +2084,6 @@
     "JoshuaJackson-jobvite",
     "froblesmartin",
     "spasche",
-    "nikolaik",
     "chrisaq",
     "pfuhrmann",
     "BredSt",
@@ -2181,13 +2181,13 @@
     "abkura",
     "ffrevol"
   ],
-  "numberOfPullRequestNew": 328,
+  "numberOfPullRequestNew": 324,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 56055,
-  "p50SecondsToCloseIssues": 274759,
-  "meanNumberOfNewPullsPerWeek": 75.98224852071006,
+  "p50SecondsToClosePulls": 53937,
+  "p50SecondsToCloseIssues": 258137,
+  "meanNumberOfNewPullsPerWeek": 76.00591715976331,
   "meanNumberOfNewContributorsPerWeek": 11.188235294117646,
-  "meanSecondsToClosePulls": 228501.91463414635,
-  "meanSecondsToCloseIssues": 401978.2786885246
+  "meanSecondsToClosePulls": 227268.36111111112,
+  "meanSecondsToCloseIssues": 323611.58928571426
 }
