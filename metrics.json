@@ -1491,6 +1491,9 @@
     "brenwhyte",
     "fixl",
     "ThomasAwesome",
+    "twshubham",
+    "juniorsdj",
+    "ldemailly",
     "stuart897",
     "fire",
     "tomByrer",
@@ -2041,6 +2044,7 @@
     "orcaman",
     "vincent-pli",
     "goodryanboy",
+    "mattbhenley",
     "Trevor-Bond",
     "RayOconnor",
     "cstuart-sqsp",
@@ -2071,7 +2075,6 @@
     "doganyazar",
     "burak-create",
     "santunioni",
-    "juniorsdj",
     "Sumu-Ning",
     "amadkinnon",
     "mputic365",
@@ -2120,8 +2123,6 @@
     "pfuhrmann",
     "BredSt",
     "miki725",
-    "twshubham",
-    "ldemailly",
     "quanmic",
     "saerdnaer",
     "tikabom",
@@ -2161,8 +2162,6 @@
     "freschri"
   ],
   "namesOfContributorsNew": [
-    "twshubham",
-    "ldemailly",
     "quanmic",
     "saerdnaer",
     "tikabom",
@@ -2201,13 +2200,13 @@
     "ffrevol",
     "freschri"
   ],
-  "numberOfPullRequestNew": 346,
+  "numberOfPullRequestNew": 334,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 57528,
+  "p50SecondsToClosePulls": 58728,
   "p50SecondsToCloseIssues": 238574,
-  "meanNumberOfNewPullsPerWeek": 76.39766081871345,
-  "meanNumberOfNewContributorsPerWeek": 11.203488372093023,
-  "meanSecondsToClosePulls": 218350.07514450868,
-  "meanSecondsToCloseIssues": 334228.16363636364
+  "meanNumberOfNewPullsPerWeek": 76.42690058479532,
+  "meanNumberOfNewContributorsPerWeek": 11.209302325581396,
+  "meanSecondsToClosePulls": 219516.6377245509,
+  "meanSecondsToCloseIssues": 340254.4074074074
 }
