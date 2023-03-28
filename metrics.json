@@ -1495,6 +1495,7 @@
     "juniorsdj",
     "ldemailly",
     "quanmic",
+    "saerdnaer",
     "stuart897",
     "fire",
     "tomByrer",
@@ -2127,7 +2128,6 @@
     "pfuhrmann",
     "BredSt",
     "miki725",
-    "saerdnaer",
     "tikabom",
     "kavispires",
     "MichaelOren",
@@ -2151,6 +2151,7 @@
     "mario-mui",
     "remerle",
     "shubhamjajoo",
+    "graemechristie",
     "srisek",
     "ksurendra",
     "anantharamakrishnans",
@@ -2166,7 +2167,6 @@
     "freschri"
   ],
   "namesOfContributorsNew": [
-    "saerdnaer",
     "tikabom",
     "kavispires",
     "MichaelOren",
@@ -2190,6 +2190,7 @@
     "mario-mui",
     "remerle",
     "shubhamjajoo",
+    "graemechristie",
     "srisek",
     "ksurendra",
     "anantharamakrishnans",
@@ -2204,13 +2205,13 @@
     "ffrevol",
     "freschri"
   ],
-  "numberOfPullRequestNew": 333,
+  "numberOfPullRequestNew": 338,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
   "p50SecondsToClosePulls": 56926,
   "p50SecondsToCloseIssues": 222204,
-  "meanNumberOfNewPullsPerWeek": 76.49122807017544,
-  "meanNumberOfNewContributorsPerWeek": 11.232558139534884,
-  "meanSecondsToClosePulls": 210720.57357357358,
-  "meanSecondsToCloseIssues": 360354.9583333333
+  "meanNumberOfNewPullsPerWeek": 76.08720930232558,
+  "meanNumberOfNewContributorsPerWeek": 11.173410404624278,
+  "meanSecondsToClosePulls": 218780.18343195267,
+  "meanSecondsToCloseIssues": 333087.3125
 }
