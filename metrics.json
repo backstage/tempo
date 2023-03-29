@@ -229,7 +229,8 @@
     "[N26](https://n26.com)",
     "[The LEGO Group](https://www.lego.com)",
     "[CORS.gmbh](https://www.cors.gmbh)",
-    "[Comcast](https://comcast.github.io/)"
+    "[Comcast](https://comcast.github.io/)",
+    "[Syntasso](https://www.syntasso.io/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -2149,7 +2150,9 @@
     "brianphillips",
     "ahmedwaleedmalik",
     "mario-mui",
+    "sichapman",
     "remerle",
+    "aclevername",
     "shubhamjajoo",
     "graemechristie",
     "srisek",
@@ -2188,7 +2191,9 @@
     "brianphillips",
     "ahmedwaleedmalik",
     "mario-mui",
+    "sichapman",
     "remerle",
+    "aclevername",
     "shubhamjajoo",
     "graemechristie",
     "srisek",
@@ -2205,13 +2210,13 @@
     "ffrevol",
     "freschri"
   ],
-  "numberOfPullRequestNew": 338,
+  "numberOfPullRequestNew": 351,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 56926,
+  "p50SecondsToClosePulls": 58728,
   "p50SecondsToCloseIssues": 222204,
-  "meanNumberOfNewPullsPerWeek": 76.08720930232558,
-  "meanNumberOfNewContributorsPerWeek": 11.173410404624278,
-  "meanSecondsToClosePulls": 218780.18343195267,
-  "meanSecondsToCloseIssues": 333087.3125
+  "meanNumberOfNewPullsPerWeek": 76.1686046511628,
+  "meanNumberOfNewContributorsPerWeek": 11.184971098265896,
+  "meanSecondsToClosePulls": 226358.59829059828,
+  "meanSecondsToCloseIssues": 329931.1
 }
