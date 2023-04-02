@@ -2094,6 +2094,7 @@
     "Jegan-Kunniya",
     "srisek",
     "ksurendra",
+    "anantharamakrishnans",
     "iamansoni",
     "johanneswuerbach",
     "jairhenrique",
@@ -2158,7 +2159,6 @@
     "shubhamjajoo",
     "graemechristie",
     "rsegovia",
-    "anantharamakrishnans",
     "rmartine-ias",
     "giocolas",
     "pcgqueiroz",
@@ -2195,7 +2195,6 @@
     "shubhamjajoo",
     "graemechristie",
     "rsegovia",
-    "anantharamakrishnans",
     "rmartine-ias",
     "giocolas",
     "pcgqueiroz",
@@ -2209,13 +2208,13 @@
     "ffrevol",
     "freschri"
   ],
-  "numberOfPullRequestNew": 329,
+  "numberOfPullRequestNew": 318,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 55770,
-  "p50SecondsToCloseIssues": 143943,
-  "meanNumberOfNewPullsPerWeek": 76.27906976744185,
+  "p50SecondsToClosePulls": 51241,
+  "p50SecondsToCloseIssues": 181044,
+  "meanNumberOfNewPullsPerWeek": 76.28488372093024,
   "meanNumberOfNewContributorsPerWeek": 11.202312138728324,
-  "meanSecondsToClosePulls": 191516.46808510637,
-  "meanSecondsToCloseIssues": 280880.52173913043
+  "meanSecondsToClosePulls": 182189.51572327045,
+  "meanSecondsToCloseIssues": 294468.0444444445
 }
