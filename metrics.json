@@ -233,6 +233,7 @@
     "[Syntasso](https://www.syntasso.io/)",
     "[Bankdata](https://www.bankdata.dk)",
     "[B3](https://www.b3.com.br/)",
+    "[Porto](https://www.portoseguro.com.br/)",
     "[Einride](https://github.com/einride)"
   ],
   "namesOfContributors": [
@@ -2175,6 +2176,7 @@
     "aclevername",
     "shubhamjajoo",
     "graemechristie",
+    "fearphage",
     "cmdkeen",
     "rsegovia",
     "FredericKayser",
@@ -2184,6 +2186,8 @@
     "eipc16",
     "odsod",
     "guilhermecgs",
+    "camilohp",
+    "alsayasneh",
     "pcgqueiroz",
     "borosilva",
     "ramhariganesh",
@@ -2213,6 +2217,7 @@
     "aclevername",
     "shubhamjajoo",
     "graemechristie",
+    "fearphage",
     "cmdkeen",
     "rsegovia",
     "FredericKayser",
@@ -2222,6 +2227,8 @@
     "eipc16",
     "odsod",
     "guilhermecgs",
+    "camilohp",
+    "alsayasneh",
     "pcgqueiroz",
     "borosilva",
     "ramhariganesh",
@@ -2239,13 +2246,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 302,
+  "numberOfPullRequestNew": 313,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 51241,
+  "p50SecondsToClosePulls": 55464,
   "p50SecondsToCloseIssues": 143943,
-  "meanNumberOfNewPullsPerWeek": 76.00574712643679,
-  "meanNumberOfNewContributorsPerWeek": 11.222857142857142,
-  "meanSecondsToClosePulls": 163175.6953642384,
-  "meanSecondsToCloseIssues": 287364.43396226416
+  "meanNumberOfNewPullsPerWeek": 76.0919540229885,
+  "meanNumberOfNewContributorsPerWeek": 11.24,
+  "meanSecondsToClosePulls": 178327.1661341853,
+  "meanSecondsToCloseIssues": 313890.8333333333
 }
