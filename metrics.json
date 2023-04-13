@@ -234,7 +234,8 @@
     "[Bankdata](https://www.bankdata.dk)",
     "[B3](https://www.b3.com.br/)",
     "[Porto](https://www.portoseguro.com.br/)",
-    "[Einride](https://github.com/einride)"
+    "[Einride](https://github.com/einride)",
+    "[Chartboost](https://www.chartboost.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -1524,6 +1525,7 @@
     "afalco103",
     "mannkind",
     "ahochsteger",
+    "adikrhan",
     "stuart897",
     "fire",
     "tomByrer",
@@ -2165,7 +2167,6 @@
     "BredSt",
     "miki725",
     "ffrevol",
-    "adikrhan",
     "dlaird-ovo",
     "brianphillips",
     "ahmedwaleedmalik",
@@ -2173,6 +2174,7 @@
     "pballandras",
     "sichapman",
     "remerle",
+    "morales-martin",
     "aclevername",
     "shubhamjajoo",
     "graemechristie",
@@ -2197,6 +2199,7 @@
     "sohanlon07",
     "LyubomirGrancharov",
     "danielgonzalez3",
+    "vullakularajesh",
     "poonamgp14",
     "huangcj7",
     "enmuro",
@@ -2206,7 +2209,6 @@
     "tyagivasu"
   ],
   "namesOfContributorsNew": [
-    "adikrhan",
     "dlaird-ovo",
     "brianphillips",
     "ahmedwaleedmalik",
@@ -2214,6 +2216,7 @@
     "pballandras",
     "sichapman",
     "remerle",
+    "morales-martin",
     "aclevername",
     "shubhamjajoo",
     "graemechristie",
@@ -2238,6 +2241,7 @@
     "sohanlon07",
     "LyubomirGrancharov",
     "danielgonzalez3",
+    "vullakularajesh",
     "poonamgp14",
     "huangcj7",
     "enmuro",
@@ -2246,13 +2250,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 313,
+  "numberOfPullRequestNew": 315,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 55464,
-  "p50SecondsToCloseIssues": 143943,
-  "meanNumberOfNewPullsPerWeek": 76.0919540229885,
-  "meanNumberOfNewContributorsPerWeek": 11.24,
-  "meanSecondsToClosePulls": 178327.1661341853,
-  "meanSecondsToCloseIssues": 313890.8333333333
+  "p50SecondsToClosePulls": 55398,
+  "p50SecondsToCloseIssues": 158555,
+  "meanNumberOfNewPullsPerWeek": 76.14942528735632,
+  "meanNumberOfNewContributorsPerWeek": 11.251428571428571,
+  "meanSecondsToClosePulls": 186591.8984126984,
+  "meanSecondsToCloseIssues": 283779.72222222225
 }
