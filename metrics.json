@@ -235,7 +235,8 @@
     "[B3](https://www.b3.com.br/)",
     "[Porto](https://www.portoseguro.com.br/)",
     "[Einride](https://github.com/einride)",
-    "[Chartboost](https://www.chartboost.com)"
+    "[Chartboost](https://www.chartboost.com)",
+    "[Quantum Metric](https://www.quantummetric.com/)"
   ],
   "namesOfContributors": [
     "bih",
@@ -2123,6 +2124,8 @@
     "rmartine-ias",
     "patrickacioli",
     "giocolas",
+    "cmcdowell-red",
+    "pcgqueiroz",
     "iamansoni",
     "johanneswuerbach",
     "jairhenrique",
@@ -2179,7 +2182,6 @@
     "shubhamjajoo",
     "graemechristie",
     "fearphage",
-    "cmdkeen",
     "rsegovia",
     "FredericKayser",
     "EIrwin",
@@ -2190,7 +2192,7 @@
     "guilhermecgs",
     "camilohp",
     "alsayasneh",
-    "pcgqueiroz",
+    "snips-dev",
     "borosilva",
     "ramhariganesh",
     "guimilleo",
@@ -2221,7 +2223,6 @@
     "shubhamjajoo",
     "graemechristie",
     "fearphage",
-    "cmdkeen",
     "rsegovia",
     "FredericKayser",
     "EIrwin",
@@ -2232,7 +2233,7 @@
     "guilhermecgs",
     "camilohp",
     "alsayasneh",
-    "pcgqueiroz",
+    "snips-dev",
     "borosilva",
     "ramhariganesh",
     "guimilleo",
@@ -2250,13 +2251,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 315,
+  "numberOfPullRequestNew": 328,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 55398,
-  "p50SecondsToCloseIssues": 158555,
-  "meanNumberOfNewPullsPerWeek": 76.14942528735632,
-  "meanNumberOfNewContributorsPerWeek": 11.251428571428571,
-  "meanSecondsToClosePulls": 186591.8984126984,
-  "meanSecondsToCloseIssues": 283779.72222222225
+  "p50SecondsToClosePulls": 51241,
+  "p50SecondsToCloseIssues": 111264,
+  "meanNumberOfNewPullsPerWeek": 76.2816091954023,
+  "meanNumberOfNewContributorsPerWeek": 11.257142857142858,
+  "meanSecondsToClosePulls": 197158.24390243902,
+  "meanSecondsToCloseIssues": 264669.2745098039
 }
