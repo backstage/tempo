@@ -2133,6 +2133,7 @@
     "pcgqueiroz",
     "borosilva",
     "ramhariganesh",
+    "tantran-earnin",
     "iamansoni",
     "johanneswuerbach",
     "jairhenrique",
@@ -2200,7 +2201,6 @@
     "GustavoAdrianGimenez",
     "alsayasneh",
     "snips-dev",
-    "tantran-earnin",
     "guimilleo",
     "DevOpsJazz",
     "artemptushkin",
@@ -2240,7 +2240,6 @@
     "GustavoAdrianGimenez",
     "alsayasneh",
     "snips-dev",
-    "tantran-earnin",
     "guimilleo",
     "DevOpsJazz",
     "artemptushkin",
@@ -2256,13 +2255,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 295,
+  "numberOfPullRequestNew": 277,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
   "p50SecondsToClosePulls": 51241,
   "p50SecondsToCloseIssues": 111264,
-  "meanNumberOfNewPullsPerWeek": 76.4080459770115,
+  "meanNumberOfNewPullsPerWeek": 76.41954022988506,
   "meanNumberOfNewContributorsPerWeek": 11.285714285714286,
-  "meanSecondsToClosePulls": 210969.7627118644,
-  "meanSecondsToCloseIssues": 307634.72340425535
+  "meanSecondsToClosePulls": 208538.32129963898,
+  "meanSecondsToCloseIssues": 265483.27659574465
 }
