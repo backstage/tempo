@@ -237,7 +237,8 @@
     "[Einride](https://github.com/einride)",
     "[Chartboost](https://www.chartboost.com)",
     "[Quantum Metric](https://www.quantummetric.com/)",
-    "[VodafoneZiggo](https://www.vodafoneziggo.nl/)"
+    "[VodafoneZiggo](https://www.vodafoneziggo.nl/)",
+    "[Volvo Cars](https://www.volvocars.com)"
   ],
   "namesOfContributors": [
     "bih",
@@ -2073,7 +2074,7 @@
     "brandon-segal",
     "NivethaJayaveeran",
     "nv-alaiacano",
-    "ci-monk",
+    "lpsm-dev",
     "Ryang20718",
     "ruieloi",
     "alexandrepesant",
@@ -2225,6 +2226,7 @@
     "zcurrent",
     "wss-cadenwheeler",
     "martin-wanerskar",
+    "IIBenII",
     "artemptushkin",
     "sohanlon07",
     "LyubomirGrancharov",
@@ -2270,6 +2272,7 @@
     "zcurrent",
     "wss-cadenwheeler",
     "martin-wanerskar",
+    "IIBenII",
     "artemptushkin",
     "sohanlon07",
     "LyubomirGrancharov",
@@ -2290,13 +2293,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 239,
+  "numberOfPullRequestNew": 236,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 65386,
-  "p50SecondsToCloseIssues": 209407,
-  "meanNumberOfNewPullsPerWeek": 76.16477272727273,
-  "meanNumberOfNewContributorsPerWeek": 11.322033898305085,
-  "meanSecondsToClosePulls": 269669.2552301255,
-  "meanSecondsToCloseIssues": 341036.35555555555
+  "p50SecondsToClosePulls": 64595,
+  "p50SecondsToCloseIssues": 200952,
+  "meanNumberOfNewPullsPerWeek": 76.21022727272727,
+  "meanNumberOfNewContributorsPerWeek": 11.32768361581921,
+  "meanSecondsToClosePulls": 275925.82627118647,
+  "meanSecondsToCloseIssues": 334969.97777777776
 }
