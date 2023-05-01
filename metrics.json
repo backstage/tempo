@@ -2294,13 +2294,13 @@
     "Gregory-Pereira",
     "tyagivasu"
   ],
-  "numberOfPullRequestNew": 253,
+  "numberOfPullRequestNew": 247,
   "p50NumberOfNewPullsPerWeek": 74,
   "p50NumberOfNewContributorsPerWeek": 11,
-  "p50SecondsToClosePulls": 61283,
+  "p50SecondsToClosePulls": 60520,
   "p50SecondsToCloseIssues": 172332,
-  "meanNumberOfNewPullsPerWeek": 76.39204545454545,
+  "meanNumberOfNewPullsPerWeek": 76.39772727272727,
   "meanNumberOfNewContributorsPerWeek": 11.350282485875706,
-  "meanSecondsToClosePulls": 239615.62450592886,
-  "meanSecondsToCloseIssues": 291456.8333333333
+  "meanSecondsToClosePulls": 231023.36032388665,
+  "meanSecondsToCloseIssues": 292444.6341463415
 }
