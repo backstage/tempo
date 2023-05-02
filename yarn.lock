@@ -290,10 +290,10 @@ lodash.mean@^4.1.0:
   resolved "https://registry.yarnpkg.com/lodash.mean/-/lodash.mean-4.1.0.tgz#bb985349628c0b9d7fe0f5fcc0011a2ee2c0dd7a"
   integrity sha1-u5hTSWKMC51/4PX8wAEaLuLA3Xo=
 
-luxon@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.3.1.tgz#f276b1b53fd9a740a60e666a541a7f6dbed4155a"
-  integrity sha512-I8vnjOmhXsMSlNMZlMkSOvgrxKJl0uOsEzdGgGNZuZPaS9KlefpE9KV95QFftlJSC+1UyCC9/I69R02cz/zcCA==
+luxon@^2.5.2:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-2.5.2.tgz#17ed497f0277e72d58a4756d6a9abee4681457b6"
+  integrity sha512-Yg7/RDp4nedqmLgyH0LwgGRvMEKVzKbUdkBYyCosbHgJ+kaOUx0qzSiSatVc3DFygnirTPYnMM2P5dg2uH1WvA==
 
 make-error@^1.1.1:
   version "1.3.6"
